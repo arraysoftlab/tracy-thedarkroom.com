@@ -260,17 +260,8 @@ if(!$ajaxRefresh) :
       
         <br/><em><?php _e( 'Delivery via' , 'cart66' ); ?>: <?php echo $order->shipping_method ?></em><br/>
         </p>
-            <div style="clear:both;"></div>
-            <form method="POST" action="<?php echo get_template_directory_uri(); ?>/get_labels.php" target="_blank" >
-                <input type="hidden" name="name" value="<?php echo $order->ship_first_name . ' ' . $order->ship_last_name; ?>"/>
-                <input type="hidden" name="address1" value="<?php echo $order->ship_address; ?>"/>
-                <input type="hidden" name="address2" value="<?php echo empty($order->ship_address2) ? '' : $order->ship_address2; ?>"/>
-                <input type="hidden" name="CustomerCity" value="<?php echo $order->ship_city; ?>"/>
-                <input type="hidden" name="CustomerState" value="<?php echo $order->ship_state; ?>"/>
-                <input type="hidden" name="zipcode" value="<?php echo $order->ship_zip; ?>"/>
-                <input type="submit" value="Get Label" class="lable-submit"/>
-            </form>
-        <?php endif; ?>
+<div style="clear:both;"></div>
+            <?php endif; ?>
       </td>
       <?php if(strlen($order->bill_last_name) > 2): ?>
         <td>&nbsp;</td>
@@ -458,8 +449,68 @@ if(!$ajaxRefresh) :
       <td colspan="1" style="text-align: left; font-weight: bold;"><?php echo Cart66Common::currency($order->total); ?></td>
     </tr>
   </table>
+  
+  
+<!-- Receipt Content Start -->
 
-  <p><a href='#' id="print_version"><?php _e( 'Printer Friendly Receipt' , 'cart66' ); ?></a></p>
+<style>
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+    .page-break	
+    { display: block; page-break-before: always; }
+}
+</style>
+
+ <div class="page-break"></div>
+ <br><br>                   
+<img class="alignright wp-image-3716" src="http://thedarkroom.com/wp-content/uploads/2014/06/mailing-lable-and-envelope.jpg" alt="mailing-lable-and-envelope" width="250" height="161" /><img class="alignleft wp-image-3759 size-full" style="margin-top: -10px;margin-right: 10px;" src="http://thedarkroom.com/wp-content/uploads/2011/01/film-icon.gif" alt="film-icon" width="61" height="61" />
+
+<h1> Film Processing</h1>
+	<ol>
+		<li><strong>Print this page for including in Package</strong> - Print and insert this printed receipt with your film</li>
+		<li><strong>Mailing Label - </strong>Print label below and attach to a 6″x9″ padded envelope <br>
+		(go to <a href="http://thedarkroom.com/label" target="_blank">thedarkroom.com/label</a> if you're having problems with label below)</li>
+		<li><strong>Box and Ship - </strong>Pack your film and this receipt in envelope and drop in a mailbox.</li>
+	</ol>
+                    
+	<form method="POST" action="http://thedarkroom.com/wp-content/themes/thedarkroom2012/get_labels.php" target="_blank" >
+        <input type="hidden" name="name" value="<?php echo $order->ship_first_name . ' ' . $order->ship_last_name; ?>"/>
+        <input type="hidden" name="address1" value="<?php echo $order->ship_address; ?>"/>
+        <input type="hidden" name="address2" value="<?php echo empty($order->ship_address2) ? '' : $order->ship_address2; ?>"/>
+        <input type="hidden" name="CustomerCity" value="<?php echo $order->ship_city; ?>"/>
+        <input type="hidden" name="CustomerState" value="<?php echo $order->ship_state; ?>"/>
+        <input type="hidden" name="zipcode" value="<?php echo $order->ship_zip; ?>"/>
+        <input type="image" src="/wp-content/uploads/2014/09/print-label.gif" value="Get Label" class="lable-submit" name-"image" width="391" height="229"/>
+    </form>
+    
+    <hr>
+     <div class="page-break"></div>
+	    <h1>
+	    <img class="alignleft wp-image-3761 size-full" style="margin-top: -10px;margin-right: 10px;" 
+	    src="http://thedarkroom.com/wp-content/uploads/2011/01/video-icon.gif" alt="video-icon" width="61" height="61" /> Video Tapes and Movie Film Transfers
+	    </h1>
+	
+	<ol>
+		<li><strong>Print this page for including in Package</strong>
+		Print and insert this printed receipt with your video tapes or movie film</li>
+		<li><strong>Mailing Label
+		</strong>• Attach mailing label to Box (below)
+		• Make sure you include the proper amount of postage on package</li>
+		<li><strong>Box and Ship.</strong> Don’t forget to include this printed receipt
+		Pack your film or videos and this receipt in envelope/box and drop in a mailbox.
+		<h2><strong>Label for Video Tape and Movie Film Transfers</strong></h2>
+		<h4><strong>Cut out label below and attach it to a box. Please make sure to include proper postage amount. </strong></h4>
+		<img class="alignnone  wp-image-2872" src="http://thedarkroom.com/wp-content/uploads/2011/01/video-label.jpg" alt="video-label" width="606" /></li>
+	</ol>
+
+<!-- END Receipt Content Start -->
+
+
+  <!--p><a href='#' id="print_version"><?php _e( 'Printer Friendly Receipt' , 'cart66' ); ?></a></p-->
 
   <?php if(Cart66Setting::getValue('enable_performance_based_integration')): ?>
     <!-- Begin Performance-Based.com Affiliate Integration -->

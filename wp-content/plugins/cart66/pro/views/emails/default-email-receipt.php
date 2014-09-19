@@ -124,16 +124,16 @@ if(!$test) {
                           <?php endif; ?>
                         </span>
                         <br/><em><?php _e( 'Delivery via' , 'cart66' ); ?>: <?php echo $order->shipping_method ?></em><br/>
-                          <div style="clear:both;"></div>
-                          <form method="POST" action="http://thedarkroom.com/wp-content/themes/thedarkroom2012/get_labels.php" target="_blank" >
-                              <input type="hidden" name="name" value="<?php echo $order->ship_first_name . ' ' . $order->ship_last_name; ?>"/>
-                              <input type="hidden" name="address1" value="<?php echo $order->ship_address; ?>"/>
-                              <input type="hidden" name="address2" value="<?php echo empty($order->ship_address2) ? '' : $order->ship_address2; ?>"/>
-                              <input type="hidden" name="CustomerCity" value="<?php echo $order->ship_city; ?>"/>
-                              <input type="hidden" name="CustomerState" value="<?php echo $order->ship_state; ?>"/>
-                              <input type="hidden" name="zipcode" value="<?php echo $order->ship_zip; ?>"/>
-                              <input type="submit" value="Get Label" class="lable-submit"/>
-                          </form>
+<div style="clear:both;"></div>
+    <form method="POST" action="http://thedarkroom.com/wp-content/themes/thedarkroom2012/get_labels.php" target="_blank" >
+        <input type="hidden" name="name" value="<?php echo $order->ship_first_name . ' ' . $order->ship_last_name; ?>"/>
+        <input type="hidden" name="address1" value="<?php echo $order->ship_address; ?>"/>
+        <input type="hidden" name="address2" value="<?php echo empty($order->ship_address2) ? '' : $order->ship_address2; ?>"/>
+        <input type="hidden" name="CustomerCity" value="<?php echo $order->ship_city; ?>"/>
+        <input type="hidden" name="CustomerState" value="<?php echo $order->ship_state; ?>"/>
+        <input type="hidden" name="zipcode" value="<?php echo $order->ship_zip; ?>"/>
+        <input type="submit" value="Get Label" class="lable-submit"/>
+    </form>
                       <?php endif; ?>
                     </td>
                   </tr>
@@ -645,16 +645,7 @@ else {
               </table>
               <!-- End Products Table -->
               </div>
-                <div style="clear:both;"></div>
-                <form method="POST" action="http://thedarkroom.com/wp-content/themes/thedarkroom2012/get_labels.php" target="_blank" >
-                    <input type="hidden" name="name" value="<?php echo $order->ship_first_name . ' ' . $order->ship_last_name; ?>"/>
-                    <input type="hidden" name="address1" value="<?php echo $order->ship_address; ?>"/>
-                    <input type="hidden" name="address2" value="<?php echo empty($order->ship_address2) ? '' : $order->ship_address2; ?>"/>
-                    <input type="hidden" name="CustomerCity" value="<?php echo $order->ship_city; ?>"/>
-                    <input type="hidden" name="CustomerState" value="<?php echo $order->ship_state; ?>"/>
-                    <input type="hidden" name="zipcode" value="<?php echo $order->ship_zip; ?>"/>
-                    <input type="submit" value="Get Label" class="lable-submit"/>
-                </form>
+
               <!-- Start Footer -->
               <table cellpadding="0" cellspacing="0" width="562" height="100">
                 <tr>

@@ -35,8 +35,8 @@ Template Name: Processing Template
         <div class="film-right">
             <h2>Pay by Mail</h2>
             <p>Download PDF and print prepaid mailer and order form</p>
-            <a href="<?php echo home_url( '/' ); ?>Film-Developing-Form.pdf" target="_blank" title="Film Developing Form"><img class="alignnone size-full wp-image-169" title="order-form" src="<?php echo home_url( '/' ); ?>wp-content/uploads/2011/01/film-developing-download-form.jpg" alt="" width="229" height="155" /></a>
-            <a href="<?php echo home_url( '/' ); ?>Film-Developing-Form.pdf" onClick="javascript: _gaq.push(['_trackPageview', '/download/develop-order-form']);" target="_blank" title="Film Developing Form"><img style="clear: left;" title="button-printmailer" src="<?php echo home_url( '/' ); ?>wp-content/uploads/2011/01/button-printmailer.jpg" alt="" width="141" height="31" /></a>
+            <a href="<?php echo home_url( '/' ); ?>form/" target="_blank" title="Film Developing Form"><img class="alignnone size-full wp-image-169" title="order-form" src="<?php echo home_url( '/' ); ?>wp-content/uploads/2011/01/film-developing-download-form.jpg" alt="" width="229" height="155" /></a>
+            <a href="<?php echo home_url( '/' ); ?>form/" onClick="javascript: _gaq.push(['_trackPageview', '/download/develop-order-form']);" target="_blank" title="Film Developing Form"><img style="clear: left;" title="button-prin.ptmailer" src="<?php echo home_url( '/' ); ?>wp-content/uploads/2011/01/button-printmailer.jpg" alt="" width="141" height="31" /></a>
             <p class="or">OR…</p>
 						
             <p>We'll send you a postage paid mailer and order form.</p>

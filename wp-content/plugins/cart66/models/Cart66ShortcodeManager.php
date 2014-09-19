@@ -93,7 +93,7 @@ class Cart66ShortcodeManager {
 
   public function showReceipt($attrs) {
     $account = null;
-
+    
     if($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['ouid'])) {
       if(CART66_PRO && isset($_POST['account'])) {
         $acctData = Cart66Common::postVal('account');
