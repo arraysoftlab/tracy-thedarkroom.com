@@ -1,0 +1,155 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width:100%;
+    text-align:center;
+    width:100%;
+}
+
+
+
+	
+.headerwrap825 {
+	background:url("images/logo.png") no-repeat scroll left top transparent;
+	width:1011px;
+}
+
+.rightcolumn {
+	background-color:#fff
+}
+
+.columnwrap1024, .columnwrap {
+background-color:#FFFFFF;
+width:1044px;
+}
+
+
+.header {
+	
+border-bottom:medium none;
+    margin: 0 auto;
+    width: 986px;
+}
+
+#header {
+	padding:0;
+	margin-top: -15px;
+	height: 40px;
+	 margin: 0 auto;
+    width: 990px;
+	background:none;
+}
+
+.lrglogohead {
+	height:75px !important
+}
+
+#header_homelink {
+	margin-top: -70px;
+	z-index: 2000;
+}
+
+.smalltabs {
+background:url("images/lifepics/top-nav.png") no-repeat scroll 0 0 transparent;
+}
+
+.smalltabs div.tablink a:link, .smalltabs div.tablink a:visited, .smalltabs div.tablink a:active, div.tab_middle div.tablink a:link, div.tab_middle div.tablink a:visited, div.tab_middle div.tablink a:active {
+color:#000000;
+text-decoration:none;
+}
+.tab_bottom {
+	background:url("images/lifepics/sub-bar.png") no-repeat scroll 0 0 transparent  !important;
+}
+
+.boxdiv1, .boxdiv1_stfull {
+	/*background:none*/
+}
+
+.boxdiv1_yellow860, .boxdiv1_red860, .boxdiv1_blue860, .boxdiv1_orange860, .boxdiv1, .boxdiv1_stfull, .boxdiv1_home860, .boxdiv1_green860  {
+		/*background:url("images/lifepics/background-body.png") top left transparent  !important;*/
+		background:none
+}
+
+#actLinks a, .boxdiv1 a {
+color:#1477b2;/*blue*/
+text-decoration: none;
+}
+#actLinks a:hover, .boxdiv1 a:hover {
+text-decoration: underline;
+}
+
+.copyright {
+background-color: white;
+width: 984px !important;
+margin: -28px auto 0 !important;
+text-align: center;
+position: relative;
+clear: both;
+}
+
+.copyright a {
+color: #999999;
+text-decoration: none;
+}
+.copyright a:hover {
+text-decoration: underline;
+}
+
+
+.copyright {
+width:1004px;
+}
+.copyright .floatright {
+display:none
+}
+
+table {
+float: left;
+}
+
+/*lifepics */
+.logo_lrg {
+margin: -72px 0 0 0;
+}
+
+
+
+#form1 #sub-nav li {
+	margin:0 0 0 20px
+}
+
+#form1 #sub-nav {
+	margin:0
+}
+
+#form1 li#menu-item-1875 a {
+	height:26px
+}
+
+
+
+.rightcol_tile {
+text-align: left;
+border: 0px solid black;
+width: 152px;
+background: #379AFB !important;
+color: white;
+margin: -11px 0 -19px -11px;
+position: relative;
+}
+
+.rightcol_name, .rightcol_tile #actLinks a {
+color: yellow;
+}
+
+.boxdiv1_blue860 #top-nav {
+	background-color:#000 !important
+}
+
+.floatleft, #Header1_ctl00_userBox div {
+	background-attachment: none !important;
+	background-image:none !important
+}
+

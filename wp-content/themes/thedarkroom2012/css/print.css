@@ -1,0 +1,48 @@
+/*Print stylesheet*/
+/*
+
+/* pagination navigation */
+.nav-previous, .nav-next {
+	display: none;
+}
+/****STRUCTURE****/
+body {
+	background: none;
+	color: black;
+}
+#page {
+	margin: 0;
+	width: 100%;
+	min-height: auto;
+}
+#header {
+	display: none;
+}
+
+
+/******* CONTENT *********/
+#main {
+	background: none;
+}
+#content.page {
+	padding: 0;
+	float: none;
+	width: 100%;
+}
+#content.page.wide {
+	width: 100%;
+}
+
+/***SIDEBAR***/
+#sidebar {
+	display: none;
+}
+
+
+/******FOOTER******/
+#bottom {
+	display: none;
+}
+#footer1, #footer2 {
+	display: none;
+}

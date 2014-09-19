@@ -1,0 +1,1520 @@
+
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/06/2014 5:53:46 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/06/2014 5:54:01 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+[LOG DATE: 09/12/2014 4:25:09 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/12/2014 4:25:09 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 4:25:09 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 4:25:22 pm - Server time zone UTC]
+Callback link: http://cart66.com/cart66-version.php?task=getLatestVersion&pn=Cart66&key=Cart66+U%3A+Thedarkroom+P%3A+cart666+0HX37976ML385014N&v=1.5.1.19&vnm=pro&wp=3.9.2&php=5.5.9&mysql=5.6.16&ws=http%3A%2F%2Flocal.host%2Fthedarkroom.com
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 4:25:24 pm - Server time zone UTC]
+[Cart66ProCommon.php - line 67] Version info from remote request: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 12 Sep 2014 16:25:33 GMT
+            [server] => Apache/2.2.15 (CentOS)
+            [x-powered-by] => PHP/5.3.3
+            [content-length] => 183
+            [connection] => close
+            [content-type] => text/html; charset=UTF-8
+        )
+
+    [body] => 1~1.5.1.19~http://cart66.com/cart66-version.php?key={KEY}&task=downloadLatest&pn=Cart66&v=1.5.1.19&vnm=pro&wp=3.9.2&php=5.5.9&mysql=5.6.16&ws=http%3A%2F%2Flocal.host%2Fthedarkroom.com
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 4:25:31 pm - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 4:25:35 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: 21D4VSC0URQDK6Q9G836ORFAKTMCUGCTDROTRDZM
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 4:25:35 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: 21D4VSC0URQDK6Q9G836ORFAKTMCUGCTDROTRDZM
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 4:25:35 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 4:25:35 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 4:27:10 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 4:27:12 pm - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 4:35:14 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 4:35:15 pm - Server time zone UTC]
+[Cart66Admin.php - line 22] Not loading Spreedly data because Spreedly class has not been loaded
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 4:35:15 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 80] Gravity Forms Standard Fields: Array
+(
+)
+
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 4:36:02 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 4:54:23 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 4:54:30 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+[LOG DATE: 09/12/2014 5:00:40 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/12/2014 5:00:40 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 5:00:41 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: N2KGGI73E6AB1F1R86T4CK206SU1Y9NGW54KXIAK
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 5:00:41 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 5:12:21 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 5:12:38 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 5:13:08 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 5:13:51 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 5:13:53 pm - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+[LOG DATE: 09/12/2014 5:14:02 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/12/2014 5:14:02 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 5:14:12 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 5:14:14 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 5:14:16 pm - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 5:14:20 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 5:14:36 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 5:14:37 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+[LOG DATE: 09/12/2014 8:21:44 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/12/2014 8:21:44 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 8:22:39 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: G0WHLAPYIS1T3RFDDDXJPCT9EY1KYX3L2TO6TZ1H
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/12/2014 8:22:39 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/13/2014 5:23:33 am - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/13/2014 5:23:33 am - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 5:23:34 am - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: 5089VKSMH113S080U2SQWFAM2D905FSS9RSSEKRF
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 5:23:34 am - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/13/2014 5:29:34 am - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/13/2014 5:29:34 am - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 5:39:31 am - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+[LOG DATE: 09/13/2014 6:00:44 am - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/13/2014 6:00:44 am - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 6:00:45 am - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: IMAKAQGK5F94P0NQRKWG34B775VHWPF4149D4VEW
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 6:00:45 am - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 6:41:39 am - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 6:41:41 am - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 6:41:47 am - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 6:41:50 am - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 6:41:51 am - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 6:42:12 am - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 6:42:14 am - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 6:42:44 am - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 6:42:46 am - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 6:44:35 am - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 6:44:39 am - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 6:44:41 am - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 6:44:46 am - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 6:45:01 am - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 6:45:02 am - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+[LOG DATE: 09/13/2014 7:01:04 am - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/13/2014 7:01:04 am - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 7:01:05 am - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: Y8YQ5RMJGVLGH32UXNHY4RMGAO92FCBW4EUCY011
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 7:01:05 am - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/13/2014 8:35:09 am - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/13/2014 8:35:09 am - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 8:35:10 am - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: RLHGN1HMERPJ1Y09GW8EKF5QE52ILA25DLQ45ET8
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 8:35:10 am - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/13/2014 1:14:33 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/13/2014 1:14:33 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 1:15:17 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: 9559HZ54D26Q1ZDHC1VW9AUU6SA16QMD3LFOMFCL
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 1:15:17 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/13/2014 2:00:17 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/13/2014 2:00:17 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:00:18 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: LWHQVR12TLBG4AEWJB1XI4BCL5QHMK87MGZZPEI8
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:00:18 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:39:05 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:39:09 pm - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+[LOG DATE: 09/13/2014 2:39:19 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 2:39:20 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:53:07 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:53:08 pm - Server time zone UTC]
+[Cart66Admin.php - line 22] Not loading Spreedly data because Spreedly class has not been loaded
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:53:08 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 80] Gravity Forms Standard Fields: Array
+(
+)
+
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:53:32 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:54:16 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:54:31 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:54:36 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:54:37 pm - Server time zone UTC]
+[Cart66Admin.php - line 22] Not loading Spreedly data because Spreedly class has not been loaded
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:54:37 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 80] Gravity Forms Standard Fields: Array
+(
+)
+
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:54:56 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 59] Gravity Forms Field Data: Array
+(
+    [id] => 1
+    [label] => Roll
+    [adminLabel] => 
+    [type] => text
+    [isRequired] => 1
+    [size] => medium
+    [errorMessage] => 
+    [inputs] => 
+    [multipleFiles] => 
+    [maxFiles] => 
+    [calculationFormula] => 
+    [calculationRounding] => 
+    [enableCalculation] => 
+    [disableQuantity] => 
+    [displayAllCategories] => 
+    [inputMask] => 
+    [inputMaskValue] => 
+    [allowsPrepopulate] => 
+    [formId] => 1
+    [pageNumber] => 1
+    [descriptionPlacement] => below
+)
+
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:54:56 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 80] Gravity Forms Standard Fields: Array
+(
+    [1] => Roll
+)
+
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:56:36 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:56:37 pm - Server time zone UTC]
+[Cart66Admin.php - line 22] Not loading Spreedly data because Spreedly class has not been loaded
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:56:37 pm - Server time zone UTC]
+[Cart66ModelAbstract.php - line 130] Cart66Product Saving Data: Array
+(
+    [id] => 
+    [name] => Film Developing
+    [item_number] => Film Developing
+    [price] => 11
+    [options_1] => 
+    [options_2] => 
+    [custom] => none
+    [custom_desc] => 
+    [taxable] => 1
+    [shipped] => 1
+    [weight] => 1
+    [download_path] => 
+    [s3_bucket] => 
+    [s3_file] => 
+    [download_limit] => 
+    [spreedly_subscription_id] => 0
+    [allow_cancel] => 
+    [is_paypal_subscription] => 
+    [max_quantity] => 0
+    [gravity_form_id] => 1
+    [gravity_form_qty_id] => 1
+    [gravity_form_pricing] => 0
+    [feature_level] => 
+    [setup_fee] => 
+    [billing_interval] => 
+    [billing_interval_unit] => days
+    [billing_cycles] => 
+    [offer_trial] => 
+    [trial_period] => 
+    [trial_period_unit] => 
+    [trial_price] => 
+    [trial_cycles] => 
+    [start_recurring_number] => 
+    [start_recurring_unit] => 
+    [price_description] => 
+    [is_membership_product] => 0
+    [lifetime_membership] => 
+    [min_quantity] => 0
+    [is_user_price] => 0
+    [min_price] => 
+    [max_price] => 
+    [custom_required] => 
+)
+
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:56:37 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 80] Gravity Forms Standard Fields: Array
+(
+)
+
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:56:58 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:57:09 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:57:15 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+[LOG DATE: 09/13/2014 2:57:22 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 2:57:23 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 2:57:31 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 1
+
+[LOG DATE: 09/13/2014 2:57:32 pm - Server time zone UTC]
+[Cart66Cart.php - line 147] Product being added is a Gravity Product: 1
+
+[LOG DATE: 09/13/2014 2:57:32 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 1
+
+[LOG DATE: 09/13/2014 2:57:32 pm - Server time zone UTC]
+[Cart66Product.php - line 207] Confirming Inventory:
+1 |  | 1
+
+[LOG DATE: 09/13/2014 2:57:32 pm - Server time zone UTC]
+[Cart66ShortcodeManager.php - line 854] Cart Item Value: Cart66CartItem Object
+(
+    [_productId:Cart66CartItem:private] => 1
+    [_quantity:Cart66CartItem:private] => 1
+    [_optionInfo:Cart66CartItem:private] => 
+    [_priceDifference:Cart66CartItem:private] => 0
+    [_customFieldInfo:Cart66CartItem:private] => 
+    [_productUrl:Cart66CartItem:private] => http://local.host/thedarkroom.com/film-developing/
+    [_formEntryIds:Cart66CartItem:private] => Array
+        (
+            [0] => 1
+        )
+
+)
+
+
+[LOG DATE: 09/13/2014 2:57:32 pm - Server time zone UTC]
+[Cart66ShortcodeManager.php - line 855] Should we use the gravity forms price? 0 :: Session value: 
+
+[LOG DATE: 09/13/2014 2:57:32 pm - Server time zone UTC]
+[Cart66ShortcodeManager.php - line 870] Cart66 Session Dump: Cart66 Session Dump:
+
+Array
+(
+    [Cart66Cart] => Cart66Cart Object
+        (
+            [_items:Cart66Cart:private] => Array
+                (
+                    [0] => Cart66CartItem Object
+                        (
+                            [_productId:Cart66CartItem:private] => 1
+                            [_quantity:Cart66CartItem:private] => 1
+                            [_optionInfo:Cart66CartItem:private] => 
+                            [_priceDifference:Cart66CartItem:private] => 0
+                            [_customFieldInfo:Cart66CartItem:private] => 
+                            [_productUrl:Cart66CartItem:private] => http://local.host/thedarkroom.com/film-developing/
+                            [_formEntryIds:Cart66CartItem:private] => Array
+                                (
+                                    [0] => 1
+                                )
+
+                        )
+
+                )
+
+            [_promotion:Cart66Cart:private] => 
+            [_promoStatus:Cart66Cart:private] => 0
+            [_shippingMethodId:Cart66Cart:private] => 
+            [_liveRates:Cart66Cart:private] => Cart66LiveRates Object
+                (
+                    [toZip] => 
+                    [weight] => 
+                    [rates] => Array
+                        (
+                        )
+
+                    [_toCountryCode:protected] => 
+                )
+
+        )
+
+    [Cart66Tax] => 0
+    [Cart66TaxRate] => 0
+    [Cart66LastPage] => http://local.host/thedarkroom.com/film-developing/
+)
+Array
+(
+    [id] => 26
+    [session_id] => MGLTWGZ0U0Z5HSVACNQ3ZY6REMPGB0ZM3HZHOWGO
+    [ip_address] => 127.0.0.1
+    [user_agent] => Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+    [last_activity] => 2014-09-13 14:57:32
+    [user_data] => a:3:{s:10:"Cart66Cart";O:10:"Cart66Cart":5:{s:18:" Cart66Cart _items";a:1:{i:0;O:14:"Cart66CartItem":7:{s:26:" Cart66CartItem _productId";s:1:"1";s:25:" Cart66CartItem _quantity";d:1;s:27:" Cart66CartItem _optionInfo";s:0:"";s:32:" Cart66CartItem _priceDifference";i:0;s:32:" Cart66CartItem _customFieldInfo";N;s:27:" Cart66CartItem _productUrl";s:50:"http://local.host/thedarkroom.com/film-developing/";s:29:" Cart66CartItem _formEntryIds";a:1:{i:0;s:1:"1";}}}s:22:" Cart66Cart _promotion";N;s:24:" Cart66Cart _promoStatus";i:0;s:29:" Cart66Cart _shippingMethodId";N;s:22:" Cart66Cart _liveRates";O:15:"Cart66LiveRates":4:{s:5:"toZip";N;s:6:"weight";N;s:5:"rates";a:0:{}s:17:" * _toCountryCode";N;}}s:9:"Cart66Tax";i:0;s:13:"Cart66TaxRate";i:0;}
+)
+
+
+[LOG DATE: 09/13/2014 2:57:41 pm - Server time zone UTC]
+[cart.php - line 163] Item option info: 
+
+[LOG DATE: 09/13/2014 2:57:41 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 1
+
+[LOG DATE: 09/13/2014 2:57:44 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 2:57:45 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 2:57:47 pm - Server time zone UTC]
+[Cart66Product.php - line 207] Confirming Inventory:
+1 |  | 1
+
+[LOG DATE: 09/13/2014 2:57:48 pm - Server time zone UTC]
+[cart.php - line 163] Item option info: 
+
+[LOG DATE: 09/13/2014 2:57:48 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 1
+
+[LOG DATE: 09/13/2014 2:57:50 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 2:57:51 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:58:00 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:58:06 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:58:11 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 2:59:10 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+[LOG DATE: 09/13/2014 3:00:13 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/13/2014 3:00:13 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 3:00:45 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 3:00:51 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 3:00:53 pm - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 3:01:09 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 3:01:11 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 3:01:13 pm - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 3:02:27 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 3:02:29 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 3:02:31 pm - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+[LOG DATE: 09/13/2014 3:02:35 pm - Server time zone UTC]
+[Cart66Product.php - line 207] Confirming Inventory:
+1 |  | 1
+
+[LOG DATE: 09/13/2014 3:02:36 pm - Server time zone UTC]
+[cart.php - line 163] Item option info: 
+
+[LOG DATE: 09/13/2014 3:02:36 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 1
+
+[LOG DATE: 09/13/2014 3:02:36 pm - Server time zone UTC]
+[checkout.php - line 337] Using Checkout Form File :: G:\PHP\local.host\thedarkroom.com/wp-content/plugins/cart66//views/checkout-form.php
+
+[LOG DATE: 09/13/2014 3:02:36 pm - Server time zone UTC]
+[checkout-form.php - line 89] Country code on checkout form: US
+
+[LOG DATE: 09/13/2014 3:02:38 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 3:02:39 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 3:05:02 pm - Server time zone UTC]
+[cart.php - line 163] Item option info: 
+
+[LOG DATE: 09/13/2014 3:05:02 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 1
+
+[LOG DATE: 09/13/2014 3:05:02 pm - Server time zone UTC]
+[Cart66Common.php - line 351] Checking to see if email address is valid: akter@bitmascot.com
+
+[LOG DATE: 09/13/2014 3:05:02 pm - Server time zone UTC]
+[checkout.php - line 93] Tax PreCalculated: $0
+
+[LOG DATE: 09/13/2014 3:05:02 pm - Server time zone UTC]
+[checkout.php - line 118] Tax: 0 | Total: 11 | Subscription Amount: 0 | One Time Total: 11
+
+[LOG DATE: 09/13/2014 3:05:02 pm - Server time zone UTC]
+[checkout.php - line 143] start working on charging the credit card
+
+[LOG DATE: 09/13/2014 3:05:03 pm - Server time zone UTC]
+[checkout.php - line 238] Should an account be created? 1
+
+[LOG DATE: 09/13/2014 3:05:03 pm - Server time zone UTC]
+[Cart66GatewayAbstract.php - line 445] additional fields: Array
+(
+)
+
+
+[LOG DATE: 09/13/2014 3:05:03 pm - Server time zone UTC]
+[Cart66Cart.php - line 760] orderinfo: Array
+(
+    [ship_first_name] => Akter
+    [ship_last_name] => Hossain
+    [ship_address] => Baridhara
+    [ship_address2] => Baridhara
+    [ship_city] => Melbourne
+    [ship_state] => AK
+    [ship_zip] => 3004
+    [ship_country] => United States
+    [bill_first_name] => Akter
+    [bill_last_name] => Hossain
+    [bill_address] => Baridhara
+    [bill_address2] => Baridhara
+    [bill_city] => Melbourne
+    [bill_state] => AK
+    [bill_zip] => 3004
+    [bill_country] => United States
+    [phone] => 46645645645
+    [email] => akter@bitmascot.com
+    [custom_field] => 
+    [coupon] => none
+    [tax] => 0
+    [shipping] => 0.00
+    [subtotal] => 11
+    [total] => 11
+    [trans_id] => MT-8OM8RFF09SBRFF
+    [status] => new
+    [ordered_on] => 2014-09-13 15:05:03
+    [shipping_method] => 
+    [account_id] => 0
+)
+
+
+[LOG DATE: 09/13/2014 3:05:03 pm - Server time zone UTC]
+Decrementing Inventory: line 90
+
+[LOG DATE: 09/13/2014 3:05:03 pm - Server time zone UTC]
+Saved order item (1): Film Developing
+SQL: INSERT INTO `wp_cart66_order_items` (`order_id`,`product_id`,`product_price`,`item_number`,`description`,`quantity`,`duid`,`form_entry_ids`) VALUES ('1','1','11','Film Developing','Film Developing','1','982cf04ce6351238e819a130de5212d5','1')
+
+[LOG DATE: 09/13/2014 3:05:03 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 1
+
+[LOG DATE: 09/13/2014 3:07:43 pm - Server time zone UTC]
+[Cart66Order.php - line 309] Account ID on order: 0
+
+[LOG DATE: 09/13/2014 3:07:43 pm - Server time zone UTC]
+[Cart66Order.php - line 309] Account ID on order: 0
+
+[LOG DATE: 09/13/2014 3:07:43 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 1
+
+[LOG DATE: 09/13/2014 3:07:43 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 1
+
+[LOG DATE: 09/13/2014 3:07:48 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 3:07:49 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 4:00:35 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/13/2014 4:00:35 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 4:00:36 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: MGLTWGZ0U0Z5HSVACNQ3ZY6REMPGB0ZM3HZHOWGO
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/13/2014 4:00:36 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/13/2014 4:32:17 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 4:32:19 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 4:32:32 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 2
+
+[LOG DATE: 09/13/2014 4:32:32 pm - Server time zone UTC]
+[Cart66Cart.php - line 147] Product being added is a Gravity Product: 2
+
+[LOG DATE: 09/13/2014 4:32:32 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 2
+
+[LOG DATE: 09/13/2014 4:32:33 pm - Server time zone UTC]
+[Cart66Product.php - line 207] Confirming Inventory:
+1 |  | 2
+
+[LOG DATE: 09/13/2014 4:32:34 pm - Server time zone UTC]
+[Cart66ShortcodeManager.php - line 854] Cart Item Value: Cart66CartItem Object
+(
+    [_productId:Cart66CartItem:private] => 1
+    [_quantity:Cart66CartItem:private] => 2
+    [_optionInfo:Cart66CartItem:private] => 
+    [_priceDifference:Cart66CartItem:private] => 0
+    [_customFieldInfo:Cart66CartItem:private] => 
+    [_productUrl:Cart66CartItem:private] => http://local.host/thedarkroom.com/film-developing/
+    [_formEntryIds:Cart66CartItem:private] => Array
+        (
+            [0] => 2
+        )
+
+)
+
+
+[LOG DATE: 09/13/2014 4:32:34 pm - Server time zone UTC]
+[Cart66ShortcodeManager.php - line 855] Should we use the gravity forms price? 0 :: Session value: 
+
+[LOG DATE: 09/13/2014 4:32:34 pm - Server time zone UTC]
+[Cart66ShortcodeManager.php - line 870] Cart66 Session Dump: Cart66 Session Dump:
+
+Array
+(
+    [Cart66Cart] => Cart66Cart Object
+        (
+            [_items:Cart66Cart:private] => Array
+                (
+                    [0] => Cart66CartItem Object
+                        (
+                            [_productId:Cart66CartItem:private] => 1
+                            [_quantity:Cart66CartItem:private] => 2
+                            [_optionInfo:Cart66CartItem:private] => 
+                            [_priceDifference:Cart66CartItem:private] => 0
+                            [_customFieldInfo:Cart66CartItem:private] => 
+                            [_productUrl:Cart66CartItem:private] => http://local.host/thedarkroom.com/film-developing/
+                            [_formEntryIds:Cart66CartItem:private] => Array
+                                (
+                                    [0] => 2
+                                )
+
+                        )
+
+                )
+
+            [_promotion:Cart66Cart:private] => 
+            [_promoStatus:Cart66Cart:private] => 0
+            [_shippingMethodId:Cart66Cart:private] => 
+            [_liveRates:Cart66Cart:private] => Cart66LiveRates Object
+                (
+                    [toZip] => 
+                    [weight] => 
+                    [rates] => Array
+                        (
+                        )
+
+                    [_toCountryCode:protected] => 
+                )
+
+        )
+
+    [Cart66Tax] => 0
+    [Cart66TaxRate] => 0
+    [Cart66LastPage] => http://local.host/thedarkroom.com/film-developing/
+)
+Array
+(
+    [id] => 29
+    [session_id] => U01ANADARHO5ZRUPBBB2ZYR6V736M0P47UN6LG1H
+    [ip_address] => 127.0.0.1
+    [user_agent] => Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+    [last_activity] => 2014-09-13 16:32:33
+    [user_data] => a:3:{s:10:"Cart66Cart";O:10:"Cart66Cart":5:{s:18:" Cart66Cart _items";a:1:{i:0;O:14:"Cart66CartItem":7:{s:26:" Cart66CartItem _productId";s:1:"1";s:25:" Cart66CartItem _quantity";d:2;s:27:" Cart66CartItem _optionInfo";s:0:"";s:32:" Cart66CartItem _priceDifference";i:0;s:32:" Cart66CartItem _customFieldInfo";N;s:27:" Cart66CartItem _productUrl";s:50:"http://local.host/thedarkroom.com/film-developing/";s:29:" Cart66CartItem _formEntryIds";a:1:{i:0;s:1:"2";}}}s:22:" Cart66Cart _promotion";N;s:24:" Cart66Cart _promoStatus";i:0;s:29:" Cart66Cart _shippingMethodId";N;s:22:" Cart66Cart _liveRates";O:15:"Cart66LiveRates":4:{s:5:"toZip";N;s:6:"weight";N;s:5:"rates";a:0:{}s:17:" * _toCountryCode";N;}}s:9:"Cart66Tax";i:0;s:13:"Cart66TaxRate";i:0;}
+)
+
+
+[LOG DATE: 09/13/2014 4:32:39 pm - Server time zone UTC]
+[cart.php - line 163] Item option info: 
+
+[LOG DATE: 09/13/2014 4:32:39 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 2
+
+[LOG DATE: 09/13/2014 4:32:47 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 4:32:48 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 4:32:52 pm - Server time zone UTC]
+[Cart66Product.php - line 207] Confirming Inventory:
+1 |  | 2
+
+[LOG DATE: 09/13/2014 4:32:52 pm - Server time zone UTC]
+[cart.php - line 163] Item option info: 
+
+[LOG DATE: 09/13/2014 4:32:52 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 2
+
+[LOG DATE: 09/13/2014 4:32:53 pm - Server time zone UTC]
+[checkout.php - line 337] Using Checkout Form File :: G:\PHP\local.host\thedarkroom.com/wp-content/plugins/cart66//views/checkout-form.php
+
+[LOG DATE: 09/13/2014 4:32:53 pm - Server time zone UTC]
+[checkout-form.php - line 89] Country code on checkout form: US
+
+[LOG DATE: 09/13/2014 4:32:58 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 4:33:00 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 4:33:28 pm - Server time zone UTC]
+[cart.php - line 163] Item option info: 
+
+[LOG DATE: 09/13/2014 4:33:28 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 2
+
+[LOG DATE: 09/13/2014 4:33:28 pm - Server time zone UTC]
+[Cart66Common.php - line 351] Checking to see if email address is valid: xenon.mbstu@gmail.com
+
+[LOG DATE: 09/13/2014 4:33:28 pm - Server time zone UTC]
+[checkout.php - line 93] Tax PreCalculated: $0
+
+[LOG DATE: 09/13/2014 4:33:28 pm - Server time zone UTC]
+[checkout.php - line 118] Tax: 0 | Total: 22 | Subscription Amount: 0 | One Time Total: 22
+
+[LOG DATE: 09/13/2014 4:33:28 pm - Server time zone UTC]
+[checkout.php - line 143] start working on charging the credit card
+
+[LOG DATE: 09/13/2014 4:33:28 pm - Server time zone UTC]
+[checkout.php - line 238] Should an account be created? 1
+
+[LOG DATE: 09/13/2014 4:33:29 pm - Server time zone UTC]
+[Cart66GatewayAbstract.php - line 445] additional fields: Array
+(
+)
+
+
+[LOG DATE: 09/13/2014 4:33:29 pm - Server time zone UTC]
+[Cart66Cart.php - line 760] orderinfo: Array
+(
+    [ship_first_name] => Akter
+    [ship_last_name] => Hossain
+    [ship_address] => Baridhara
+    [ship_address2] => Baridhara
+    [ship_city] => Melbourne
+    [ship_state] => AK
+    [ship_zip] => 3004
+    [ship_country] => United States
+    [bill_first_name] => Akter
+    [bill_last_name] => Hossain
+    [bill_address] => Baridhara
+    [bill_address2] => Baridhara
+    [bill_city] => Melbourne
+    [bill_state] => AK
+    [bill_zip] => 3004
+    [bill_country] => United States
+    [phone] => 46645645645
+    [email] => xenon.mbstu@gmail.com
+    [custom_field] => 
+    [coupon] => none
+    [tax] => 0
+    [shipping] => 0.00
+    [subtotal] => 22
+    [total] => 22
+    [trans_id] => MT-QWILSLQY2E84KJ
+    [status] => new
+    [ordered_on] => 2014-09-13 16:33:29
+    [shipping_method] => 
+    [account_id] => 0
+)
+
+
+[LOG DATE: 09/13/2014 4:33:29 pm - Server time zone UTC]
+Decrementing Inventory: line 90
+
+[LOG DATE: 09/13/2014 4:33:29 pm - Server time zone UTC]
+Saved order item (2): Film Developing
+SQL: INSERT INTO `wp_cart66_order_items` (`order_id`,`product_id`,`product_price`,`item_number`,`description`,`quantity`,`duid`,`form_entry_ids`) VALUES ('2','1','11','Film Developing','Film Developing','2','089bb342cf00dc0c201acdf8ad69d7e4','2')
+
+[LOG DATE: 09/13/2014 4:33:29 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 2
+
+[LOG DATE: 09/13/2014 4:33:31 pm - Server time zone UTC]
+[Cart66Order.php - line 309] Account ID on order: 0
+
+[LOG DATE: 09/13/2014 4:33:31 pm - Server time zone UTC]
+[Cart66Order.php - line 309] Account ID on order: 0
+
+[LOG DATE: 09/13/2014 4:33:31 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 2
+
+[LOG DATE: 09/13/2014 4:33:31 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 2
+
+[LOG DATE: 09/13/2014 4:33:33 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 4:33:34 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 4:38:30 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 4:38:32 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 4:42:13 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 3
+
+[LOG DATE: 09/13/2014 4:42:13 pm - Server time zone UTC]
+[Cart66Cart.php - line 147] Product being added is a Gravity Product: 3
+
+[LOG DATE: 09/13/2014 4:42:13 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 3
+
+[LOG DATE: 09/13/2014 4:42:14 pm - Server time zone UTC]
+[Cart66Product.php - line 207] Confirming Inventory:
+1 |  | 2
+
+[LOG DATE: 09/13/2014 4:42:14 pm - Server time zone UTC]
+[Cart66ShortcodeManager.php - line 854] Cart Item Value: Cart66CartItem Object
+(
+    [_productId:Cart66CartItem:private] => 1
+    [_quantity:Cart66CartItem:private] => 2
+    [_optionInfo:Cart66CartItem:private] => 
+    [_priceDifference:Cart66CartItem:private] => 0
+    [_customFieldInfo:Cart66CartItem:private] => 
+    [_productUrl:Cart66CartItem:private] => http://local.host/thedarkroom.com/film-developing/
+    [_formEntryIds:Cart66CartItem:private] => Array
+        (
+            [0] => 3
+        )
+
+)
+
+
+[LOG DATE: 09/13/2014 4:42:14 pm - Server time zone UTC]
+[Cart66ShortcodeManager.php - line 855] Should we use the gravity forms price? 0 :: Session value: 
+
+[LOG DATE: 09/13/2014 4:42:14 pm - Server time zone UTC]
+[Cart66ShortcodeManager.php - line 870] Cart66 Session Dump: Cart66 Session Dump:
+
+Array
+(
+    [Cart66TaxRate] => 0
+    [Cart66LastPage] => http://local.host/thedarkroom.com/film-developing/
+    [Cart66CheckoutThrottle] => Cart66CheckoutThrottle Object
+        (
+            [_digits:Cart66CheckoutThrottle:private] => 
+            [_amount:Cart66CheckoutThrottle:private] => 22
+            [_time:Cart66CheckoutThrottle:private] => 1410626008
+            [_timeRemaing:Cart66CheckoutThrottle:private] => 0
+        )
+
+    [order_id] => 2
+    [Cart66Cart] => Cart66Cart Object
+        (
+            [_items:Cart66Cart:private] => Array
+                (
+                    [0] => Cart66CartItem Object
+                        (
+                            [_productId:Cart66CartItem:private] => 1
+                            [_quantity:Cart66CartItem:private] => 2
+                            [_optionInfo:Cart66CartItem:private] => 
+                            [_priceDifference:Cart66CartItem:private] => 0
+                            [_customFieldInfo:Cart66CartItem:private] => 
+                            [_productUrl:Cart66CartItem:private] => http://local.host/thedarkroom.com/film-developing/
+                            [_formEntryIds:Cart66CartItem:private] => Array
+                                (
+                                    [0] => 3
+                                )
+
+                        )
+
+                )
+
+            [_promotion:Cart66Cart:private] => 
+            [_promoStatus:Cart66Cart:private] => 0
+            [_shippingMethodId:Cart66Cart:private] => 
+            [_liveRates:Cart66Cart:private] => Cart66LiveRates Object
+                (
+                    [toZip] => 
+                    [weight] => 
+                    [rates] => Array
+                        (
+                        )
+
+                    [_toCountryCode:protected] => 
+                )
+
+        )
+
+    [Cart66Tax] => 0
+)
+Array
+(
+    [id] => 29
+    [session_id] => U01ANADARHO5ZRUPBBB2ZYR6V736M0P47UN6LG1H
+    [ip_address] => 127.0.0.1
+    [user_agent] => Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+    [last_activity] => 2014-09-13 16:42:14
+    [user_data] => a:6:{s:13:"Cart66TaxRate";i:0;s:14:"Cart66LastPage";s:50:"http://local.host/thedarkroom.com/film-developing/";s:22:"Cart66CheckoutThrottle";O:22:"Cart66CheckoutThrottle":4:{s:31:" Cart66CheckoutThrottle _digits";b:0;s:31:" Cart66CheckoutThrottle _amount";d:22;s:29:" Cart66CheckoutThrottle _time";i:1410626008;s:36:" Cart66CheckoutThrottle _timeRemaing";i:0;}s:8:"order_id";i:2;s:10:"Cart66Cart";O:10:"Cart66Cart":5:{s:18:" Cart66Cart _items";a:1:{i:0;O:14:"Cart66CartItem":7:{s:26:" Cart66CartItem _productId";s:1:"1";s:25:" Cart66CartItem _quantity";d:2;s:27:" Cart66CartItem _optionInfo";s:0:"";s:32:" Cart66CartItem _priceDifference";i:0;s:32:" Cart66CartItem _customFieldInfo";N;s:27:" Cart66CartItem _productUrl";s:50:"http://local.host/thedarkroom.com/film-developing/";s:29:" Cart66CartItem _formEntryIds";a:1:{i:0;s:1:"3";}}}s:22:" Cart66Cart _promotion";N;s:24:" Cart66Cart _promoStatus";i:0;s:29:" Cart66Cart _shippingMethodId";N;s:22:" Cart66Cart _liveRates";O:15:"Cart66LiveRates":4:{s:5:"toZip";N;s:6:"weight";N;s:5:"rates";a:0:{}s:17:" * _toCountryCode";N;}}s:9:"Cart66Tax";i:0;}
+)
+
+
+[LOG DATE: 09/13/2014 4:42:17 pm - Server time zone UTC]
+[cart.php - line 163] Item option info: 
+
+[LOG DATE: 09/13/2014 4:42:17 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 3
+
+[LOG DATE: 09/13/2014 4:42:24 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 4:42:26 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 4:42:49 pm - Server time zone UTC]
+[Cart66Product.php - line 207] Confirming Inventory:
+1 |  | 2
+
+[LOG DATE: 09/13/2014 4:42:50 pm - Server time zone UTC]
+[cart.php - line 163] Item option info: 
+
+[LOG DATE: 09/13/2014 4:42:50 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 3
+
+[LOG DATE: 09/13/2014 4:42:50 pm - Server time zone UTC]
+[checkout.php - line 337] Using Checkout Form File :: G:\PHP\local.host\thedarkroom.com/wp-content/plugins/cart66//views/checkout-form.php
+
+[LOG DATE: 09/13/2014 4:42:50 pm - Server time zone UTC]
+[checkout-form.php - line 89] Country code on checkout form: US
+
+[LOG DATE: 09/13/2014 4:42:52 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 4:42:53 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 4:43:07 pm - Server time zone UTC]
+[cart.php - line 163] Item option info: 
+
+[LOG DATE: 09/13/2014 4:43:07 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 3
+
+[LOG DATE: 09/13/2014 4:43:07 pm - Server time zone UTC]
+[Cart66Common.php - line 351] Checking to see if email address is valid: xenon.mbstu@gmail.com
+
+[LOG DATE: 09/13/2014 4:43:07 pm - Server time zone UTC]
+[checkout.php - line 93] Tax PreCalculated: $0
+
+[LOG DATE: 09/13/2014 4:43:08 pm - Server time zone UTC]
+[checkout.php - line 118] Tax: 0 | Total: 22 | Subscription Amount: 0 | One Time Total: 22
+
+[LOG DATE: 09/13/2014 4:43:08 pm - Server time zone UTC]
+[checkout.php - line 143] start working on charging the credit card
+
+[LOG DATE: 09/13/2014 4:43:08 pm - Server time zone UTC]
+[checkout.php - line 238] Should an account be created? 1
+
+[LOG DATE: 09/13/2014 4:43:08 pm - Server time zone UTC]
+[Cart66GatewayAbstract.php - line 445] additional fields: Array
+(
+)
+
+
+[LOG DATE: 09/13/2014 4:43:08 pm - Server time zone UTC]
+[Cart66Cart.php - line 760] orderinfo: Array
+(
+    [ship_first_name] => Akter
+    [ship_last_name] => Hossain
+    [ship_address] => Baridhara
+    [ship_address2] => Baridhara
+    [ship_city] => Melbourne
+    [ship_state] => IA
+    [ship_zip] => 3004
+    [ship_country] => United States
+    [bill_first_name] => Akter
+    [bill_last_name] => Hossain
+    [bill_address] => Baridhara
+    [bill_address2] => Baridhara
+    [bill_city] => Melbourne
+    [bill_state] => IA
+    [bill_zip] => 3004
+    [bill_country] => United States
+    [phone] => 46645645645
+    [email] => xenon.mbstu@gmail.com
+    [custom_field] => 
+    [coupon] => none
+    [tax] => 0
+    [shipping] => 0.00
+    [subtotal] => 22
+    [total] => 22
+    [trans_id] => MT-SOWFC3TP1OYM0V
+    [status] => new
+    [ordered_on] => 2014-09-13 16:43:08
+    [shipping_method] => 
+    [account_id] => 0
+)
+
+
+[LOG DATE: 09/13/2014 4:43:08 pm - Server time zone UTC]
+Decrementing Inventory: line 90
+
+[LOG DATE: 09/13/2014 4:43:08 pm - Server time zone UTC]
+Saved order item (3): Film Developing
+SQL: INSERT INTO `wp_cart66_order_items` (`order_id`,`product_id`,`product_price`,`item_number`,`description`,`quantity`,`duid`,`form_entry_ids`) VALUES ('3','1','11','Film Developing','Film Developing','2','0b442f6329b3f8a79845825ec94ff589','3')
+
+[LOG DATE: 09/13/2014 4:43:08 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 3
+
+[LOG DATE: 09/13/2014 4:43:10 pm - Server time zone UTC]
+[Cart66Order.php - line 309] Account ID on order: 0
+
+[LOG DATE: 09/13/2014 4:43:10 pm - Server time zone UTC]
+[Cart66Order.php - line 309] Account ID on order: 0
+
+[LOG DATE: 09/13/2014 4:43:10 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 3
+
+[LOG DATE: 09/13/2014 4:43:10 pm - Server time zone UTC]
+[Cart66GravityReader.php - line 148] SQL getting form id from entry id: SELECT form_id from wp_rg_lead where id = 3
+
+[LOG DATE: 09/13/2014 4:43:13 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 4:43:14 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/13/2014 5:00:36 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/13/2014 5:00:36 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/13/2014 8:13:20 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/13/2014 8:13:20 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/16/2014 5:35:16 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/16/2014 5:35:16 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 5:35:17 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 5:35:36 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+[LOG DATE: 09/16/2014 5:36:20 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/16/2014 5:36:20 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 5:36:21 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 5:36:33 pm - Server time zone UTC]
+Callback link: http://cart66.com/cart66-version.php?task=getLatestVersion&pn=Cart66&key=Cart66+U%3A+Thedarkroom+P%3A+cart666+0HX37976ML385014N&v=1.5.1.19&vnm=pro&wp=3.9.2&php=5.5.9&mysql=5.6.16&ws=http%3A%2F%2Flocal.host%2Fthedarkroom.com
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 5:36:39 pm - Server time zone UTC]
+[Cart66ProCommon.php - line 67] Version info from remote request: Array
+(
+    [headers] => Array
+        (
+            [date] => Tue, 16 Sep 2014 17:36:48 GMT
+            [server] => Apache/2.2.15 (CentOS)
+            [x-powered-by] => PHP/5.3.3
+            [content-length] => 183
+            [connection] => close
+            [content-type] => text/html; charset=UTF-8
+        )
+
+    [body] => 1~1.5.1.19~http://cart66.com/cart66-version.php?key={KEY}&task=downloadLatest&pn=Cart66&v=1.5.1.19&vnm=pro&wp=3.9.2&php=5.5.9&mysql=5.6.16&ws=http%3A%2F%2Flocal.host%2Fthedarkroom.com
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 5:36:40 pm - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 5:36:55 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: U01ANADARHO5ZRUPBBB2ZYR6V736M0P47UN6LG1H
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 5:36:55 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 5:36:55 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: U01ANADARHO5ZRUPBBB2ZYR6V736M0P47UN6LG1H
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 5:36:55 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 5:36:57 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 5:37:03 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 5:37:04 pm - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 5:37:11 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 5:37:12 pm - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+[LOG DATE: 09/16/2014 6:01:02 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/16/2014 6:01:02 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 6:44:31 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+[LOG DATE: 09/16/2014 7:01:53 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/16/2014 7:01:53 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 7:01:54 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: Q3JPPE05N3C8W36545NUBILQDL28F6PNNJEGT1EN
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 7:01:54 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/16/2014 7:44:00 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/16/2014 7:44:00 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 7:44:01 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: CVCJD9F2OP1NJCZZQET35BI25GDW669P80T0MFA4
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 7:44:01 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/16/2014 8:18:50 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/16/2014 8:18:50 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 8:18:51 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: 9S9KHIX04T5CKZDS1HPN3BYO4O8VE914ZSTP4BNJ
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/16/2014 8:18:51 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/18/2014 5:17:51 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/18/2014 5:17:51 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/18/2014 5:17:51 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/18/2014 5:17:51 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/18/2014 5:17:57 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/18/2014 5:17:57 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/18/2014 5:17:58 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/18/2014 5:18:00 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/18/2014 5:18:00 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/18/2014 5:18:02 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/18/2014 5:23:24 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/18/2014 5:23:24 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/18/2014 5:23:24 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/18/2014 5:23:34 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/18/2014 5:23:41 pm - Server time zone UTC]
+Callback link: http://cart66.com/cart66-version.php?task=getLatestVersion&pn=Cart66&key=Cart66+U%3A+Thedarkroom+P%3A+cart666+0HX37976ML385014N&v=1.5.1.19&vnm=pro&wp=3.9.2&php=5.5.9&mysql=5.6.16&ws=http%3A%2F%2Flocal.host%2Fthedarkroom.com
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/18/2014 5:23:42 pm - Server time zone UTC]
+[Cart66ProCommon.php - line 67] Version info from remote request: Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 18 Sep 2014 17:23:55 GMT
+            [server] => Apache/2.2.15 (CentOS)
+            [x-powered-by] => PHP/5.3.3
+            [content-length] => 183
+            [connection] => close
+            [content-type] => text/html; charset=UTF-8
+        )
+
+    [body] => 1~1.5.1.19~http://cart66.com/cart66-version.php?key={KEY}&task=downloadLatest&pn=Cart66&v=1.5.1.19&vnm=pro&wp=3.9.2&php=5.5.9&mysql=5.6.16&ws=http%3A%2F%2Flocal.host%2Fthedarkroom.com
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/18/2014 5:23:47 pm - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+[LOG DATE: 09/18/2014 6:00:58 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/18/2014 6:00:58 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/18/2014 6:00:59 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: GZMDGMJZDGRURMGSW84F7LGJV6ZWFUQGWO13AU9V
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/18/2014 6:00:59 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
