@@ -45,6 +45,10 @@
                                         <label for="zip">Zip code<span class="gfield_required">*</span></label>
                                         <input name="zip" type="text" class="lzip" placeholder="Zip Code" size="7" value="<?php echo $_GET['zip'] ?>"/>
                                     </div>
+                                    <label for="email">Email</label>
+                                    <input name="email" class="email" type="text" placeholder="me@myworld.com" value="<?php echo $_GET['email'] ?>"/>
+                                    <label for="phone">Phone</label>
+                                    <input name="phone" class="phone" type="text" placeholder="+001 123 4566" value="<?php echo $_GET['phone'] ?>"/>
                                     <div style="clear:both;"></div>
                                     <input type="submit" name="submit" value="Create Label" class="lable-submit"/>
                                 </fieldset>
@@ -63,9 +67,11 @@
                             $city = strip_tags($_POST['city']);
                             $state = strip_tags($_POST['state']);
                             $zipCode = strip_tags(str_replace(' ', '', $_POST['zip']));
+                            $email = strip_tags($_POST['email']);
+                            $phone = strip_tags($_POST['phone']);
                             ?>
-                            <div>
-                                <div class="">
+                            <div class="download-panel">
+                                <div class="order-form-panel">
                                     <form method="POST" action="<?php echo get_template_directory_uri(); ?>/get-order-form-n-label.php" target="_blank">
                                         <input type="hidden" name="full_name" value="<?php echo $name ?>"/>
                                         <input type="hidden" name="address1" value="<?php echo $address1 ?>"/>
@@ -73,11 +79,13 @@
                                         <input type="hidden" name="city" value="<?php echo $city ?>"/>
                                         <input type="hidden" name="state" value="<?php echo $state ?>">
                                         <input type="hidden" name="zip" value="<?php echo $zipCode ?>">
+                                        <input type="hidden" name="email" value="<?php echo $email ?>">
+                                        <input type="hidden" name="phone" value="<?php echo $phone ?>">
                                         <input type="hidden" name="redirect_to" value="<?php echo get_permalink() ?>"/>
                                         <input type="submit" name="order_form" value="Download Order Form"/>
                                     </form>
                                 </div>
-                                <div class="">
+                                <div class="shipping-label-panel">
                                     <form method="POST" action="<?php echo get_template_directory_uri(); ?>/get-order-form-n-label.php" target="_blank">
                                         <input type="hidden" name="full_name" value="<?php echo $name ?>"/>
                                         <input type="hidden" name="address1" value="<?php echo $address1 ?>"/>
@@ -85,11 +93,21 @@
                                         <input type="hidden" name="city" value="<?php echo $city ?>"/>
                                         <input type="hidden" name="state" value="<?php echo $state ?>">
                                         <input type="hidden" name="zip" value="<?php echo $zipCode ?>">
+                                        <input type="hidden" name="email" value="<?php echo $email ?>">
+                                        <input type="hidden" name="phone" value="<?php echo $phone ?>">
                                         <input type="hidden" name="redirect_to" value="<?php echo get_permalink() ?>"/>
                                         <input type="submit" name="shipping_label" value="Download Shipping Label"/>
                                     </form>
                                 </div>
                             </div>
+                            <style type="text/css">
+                                .download-panel div {
+                                    width: 50%;
+                                    float: left;
+                                    text-align: center;
+                                    margin: 30px 0;
+                                }
+                            </style>
                         <?php
                         }
                         ?>
