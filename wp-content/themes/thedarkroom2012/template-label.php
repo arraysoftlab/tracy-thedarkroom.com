@@ -17,13 +17,22 @@
                     <!--Edit Template-label.php file -->
                     <?php edit_post_link(__('Edit', 'imminimal'), '<span class="edit-link">', '</span>'); ?>
                         <?php
-                        if(!isset($_POST['submit']) || isset($_GET['error'])) {
+                        if(!isset($_POST['submit']) || isset($_GET['err'])) {
                         ?>
                         <div class="lable-left">
                         <?php
-                            if(isset($_GET['error'])) {
+                            if(!empty($_GET['err'])) {
                                 ?>
-                                <span style="color:#ff0000"><h3>Something wrong. Please check again and submit.</h3>
+                                <div style="color:#ff0000">
+                                    <h3>Something wrong. Please check again and submit.</h3>
+                                    <ul>
+                                    <?php
+                                    foreach($_GET['err'] as $err) {
+                                        echo "<li>$err</li>";
+                                    }
+                                    ?>
+                                    </ul>
+                                </div>
                                 <?php
                             }
                             ?>
@@ -69,6 +78,22 @@
                             $zipCode = strip_tags(str_replace(' ', '', $_POST['zip']));
                             $email = strip_tags($_POST['email']);
                             $phone = strip_tags($_POST['phone']);
+
+                            $errors = array();
+                            if(empty($name)) $errors[] = "Name is required.";
+                            if(empty($address1)) $errors[] = "Address 1 is required.";
+                            if(empty($city)) $errors[] = "City is required.";
+                            if(empty($state)) $errors[] = "State is required.";
+                            if(empty($zipCode)) $errors[] = "ZipCode is required.";
+
+                            if(!empty($errors)) {
+                                $error = "";
+                                foreach($errors as $err) {
+                                    $error .= "&err[]=$err";
+                                }
+                                header("Location: " . get_permalink() ."?full_name=$name&address1=$address1&address2=$address2&city=$city&state=$state&zip=$zipCode" . $error);
+                                exit();
+                            }
                             ?>
                             <div class="download-panel">
                                 <div class="order-form-panel">

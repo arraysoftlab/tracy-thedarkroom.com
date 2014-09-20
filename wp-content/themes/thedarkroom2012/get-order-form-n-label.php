@@ -1,4 +1,9 @@
 <?php
+if(empty($_POST)) {
+    header('Location: /');
+    exit();
+}
+
 $tmpDir = "temp";
 $now = round(microtime(true) * 1000);
 if(!file_exists($tmpDir)) {
@@ -77,8 +82,19 @@ if(isset($_POST['shipping_label'])) {
     $curl_resp = curl_exec($attachmentFile);
     curl_close($attachmentFile);
     $data = base64_decode($curl_resp);
-    if(!$data) {
-        header("Location: $redirectTo?error=$curl_resp&full_name=$name&address1=$address1&address2=$address2&city=$city&state=$state&zip=$zipCode");
+    $xml_resp = new SimpleXMLElement($curl_resp);
+    $errors = array();
+    if($xml_resp->errors) {
+        foreach($xml_resp->errors->ExternalReturnLabelError as $xml_elem) {
+            $errors[] = (string)$xml_elem->InternalErrorDescription;
+        }
+    }
+    if(!empty($errors)) {
+        $error = "";
+        foreach($errors as $err) {
+            $error .= "&err[]=$err";
+        }
+        header("Location: $redirectTo?full_name=$name&address1=$address1&address2=$address2&city=$city&state=$state&zip=$zipCode" . $error);
         exit();
     }
     $tmpLabel = $tmpDir . '/label-' . $now;
