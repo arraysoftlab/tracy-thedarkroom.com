@@ -1518,3 +1518,548 @@ Callback link: http://cart66.com/cart66-version.php?task=getLatestVersion&pn=Car
 ======= ADMIN REQUEST =======
 [LOG DATE: 09/18/2014 6:00:59 pm - Server time zone UTC]
 [Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/19/2014 4:38:52 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/19/2014 4:38:52 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:38:52 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:39:01 pm - Server time zone UTC]
+Callback link: http://cart66.com/cart66-version.php?task=getLatestVersion&pn=Cart66&key=Cart66+U%3A+Thedarkroom+P%3A+cart666+0HX37976ML385014N&v=1.5.1.19&vnm=pro&wp=3.9.2&php=5.5.9&mysql=5.6.16&ws=http%3A%2F%2Flocal.host%2Fthedarkroom.com
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:39:03 pm - Server time zone UTC]
+[Cart66ProCommon.php - line 67] Version info from remote request: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 19 Sep 2014 16:39:17 GMT
+            [server] => Apache/2.2.15 (CentOS)
+            [x-powered-by] => PHP/5.3.3
+            [content-length] => 183
+            [connection] => close
+            [content-type] => text/html; charset=UTF-8
+        )
+
+    [body] => 1~1.5.1.19~http://cart66.com/cart66-version.php?key={KEY}&task=downloadLatest&pn=Cart66&v=1.5.1.19&vnm=pro&wp=3.9.2&php=5.5.9&mysql=5.6.16&ws=http%3A%2F%2Flocal.host%2Fthedarkroom.com
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:39:12 pm - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+[LOG DATE: 09/19/2014 4:39:19 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: 25BNH02N9TNOJHJ4R8MQTMCP7YY3UZO332F32EV4
+
+[LOG DATE: 09/19/2014 4:39:19 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:39:19 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: 25BNH02N9TNOJHJ4R8MQTMCP7YY3UZO332F32EV4
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:39:19 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:39:19 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: 25BNH02N9TNOJHJ4R8MQTMCP7YY3UZO332F32EV4
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:39:19 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/19/2014 4:39:26 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/19/2014 4:39:29 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/19/2014 4:39:36 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/19/2014 4:39:38 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:39:42 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:39:49 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:40:08 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:40:24 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:40:26 pm - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:40:37 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:40:41 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:40:43 pm - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+[LOG DATE: 09/19/2014 4:40:56 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/19/2014 4:40:57 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:53:03 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:53:14 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:53:19 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:53:29 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:53:30 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:54:57 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:54:59 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:55:56 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:55:57 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:58:21 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:58:22 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:58:47 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 4:58:48 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+[LOG DATE: 09/19/2014 5:00:32 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/19/2014 5:00:32 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:00:33 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:00:34 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:01:37 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:01:39 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:01:43 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:01:49 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:02:59 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:03:01 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:03:03 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:03:05 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:03:07 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:03:09 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:03:11 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:03:14 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:03:16 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:03:18 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:03:21 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:03:22 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:03:24 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:03:26 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:03:29 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:03:31 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+[LOG DATE: 09/19/2014 5:14:35 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/19/2014 5:14:35 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:14:36 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: IN8YXQP7D9XKXCCDTSXB973UQQVG7XHETZN75069
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/19/2014 5:14:36 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/20/2014 2:31:38 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+[LOG DATE: 09/20/2014 2:31:38 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/20/2014 2:31:41 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: 2MCHOZBH9FEX05PW00OKLVGE9E8KSXDDU6G8AFY9
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/20/2014 2:31:41 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/20/2014 2:31:46 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/20/2014 2:31:57 pm - Server time zone UTC]
+Callback link: http://cart66.com/cart66-version.php?task=getLatestVersion&pn=Cart66&key=Cart66+U%3A+Thedarkroom+P%3A+cart666+0HX37976ML385014N&v=1.5.1.19&vnm=pro&wp=3.9.2&php=5.5.9&mysql=5.6.16&ws=http%3A%2F%2Flocal.host%2Fthedarkroom.com
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/20/2014 2:31:59 pm - Server time zone UTC]
+[Cart66ProCommon.php - line 67] Version info from remote request: Array
+(
+    [headers] => Array
+        (
+            [date] => Sat, 20 Sep 2014 14:32:14 GMT
+            [server] => Apache/2.2.15 (CentOS)
+            [x-powered-by] => PHP/5.3.3
+            [content-length] => 183
+            [connection] => close
+            [content-type] => text/html; charset=UTF-8
+        )
+
+    [body] => 1~1.5.1.19~http://cart66.com/cart66-version.php?key={KEY}&task=downloadLatest&pn=Cart66&v=1.5.1.19&vnm=pro&wp=3.9.2&php=5.5.9&mysql=5.6.16&ws=http%3A%2F%2Flocal.host%2Fthedarkroom.com
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/20/2014 2:32:06 pm - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/20/2014 2:32:20 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/20/2014 2:32:25 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/20/2014 2:32:27 pm - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/20/2014 2:32:35 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/20/2014 2:32:37 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/20/2014 2:32:39 pm - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/20/2014 2:44:53 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/20/2014 2:45:01 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/20/2014 2:45:06 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/20/2014 2:45:15 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+[LOG DATE: 09/20/2014 2:47:28 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 2:47:29 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 2:59:24 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 2:59:26 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 2:59:37 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 2:59:38 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 3:00:12 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/20/2014 3:00:12 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/20/2014 3:01:04 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 3:01:05 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 3:01:09 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 3:01:11 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 3:05:29 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 3:05:30 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 3:05:32 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 3:05:33 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 3:09:11 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 3:09:12 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 3:10:05 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 3:10:06 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 3:22:40 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 3:22:41 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 4:01:50 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/20/2014 4:01:50 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/20/2014 4:01:51 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: N7VX7AZQWMRFO3M9IUJJ2B981MB2O5NIW9C13UHK
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/20/2014 4:01:51 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/20/2014 4:35:18 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 4:35:19 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 4:35:25 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 4:35:26 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 4:48:54 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 4:48:56 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 4:56:36 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 4:56:37 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:00:44 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/20/2014 5:00:44 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/20/2014 5:00:48 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:00:50 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:00:56 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:00:58 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:01:32 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:01:33 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:01:46 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:01:47 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:01:54 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:01:55 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:02:04 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:02:05 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:02:40 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:02:42 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:02:49 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:02:51 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:03:11 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:03:12 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:15:35 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/20/2014 5:15:35 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
