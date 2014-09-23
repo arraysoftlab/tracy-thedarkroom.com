@@ -6,6 +6,6 @@ wp-content/themes/*
 !.gitignore
 !wp-content/
 !wp-content/plugins/
-!wp-content/themes/
 !wp-content/plugins/cart66/
 !wp-content/themes/thedarkroom2012/
+!wp-content/themes/

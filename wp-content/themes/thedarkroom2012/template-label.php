@@ -36,8 +36,9 @@
                                 <?php
                             }
                             ?>
-                            <form method="POST" action="">
-                                <fieldset id="labelfields">
+                            <div id="offline-order-form">
+                                <form method="POST" action="<?php echo get_template_directory_uri(); ?>/get-order-form-n-label.php">
+                                    <input type="hidden" name="redirect_to" value="<?php echo get_permalink() ?>"/>
                                     <span class="gfield_required" style="float:right">* Required Fields</span>
                                     <label for="full_name">Name<span class="gfield_required">*</span></label>
                                     <input name="full_name" class="lname" type="text" placeholder="Name" value="<?php echo $_GET['full_name'] ?>"/>
@@ -59,9 +60,12 @@
                                     <label for="phone">Phone</label>
                                     <input name="phone" class="phone" type="text" placeholder="+001 123 4566" value="<?php echo $_GET['phone'] ?>"/>
                                     <div style="clear:both;"></div>
-                                    <input type="submit" name="submit" value="Create Label" class="lable-submit"/>
-                                </fieldset>
-                            </form>
+                                    <input type="button" id="create-label-n-order-form" name="submit" value="Create Label & Order Form"/>
+                                </form>
+                            </div>
+                            <div id="download-panel" style="display: none">
+
+                            </div>
                         </div>
                         <!--Righ Column-->
                         <div class="lable-right">
@@ -111,7 +115,7 @@
                                     </form>
                                 </div>
                                 <div class="shipping-label-panel">
-                                    <form method="POST" action="<?php echo get_template_directory_uri(); ?>/get-order-form-n-label.php" target="_blank">
+                                    <form method="POST" action="" target="_blank">
                                         <input type="hidden" name="full_name" value="<?php echo $name ?>"/>
                                         <input type="hidden" name="address1" value="<?php echo $address1 ?>"/>
                                         <input type="hidden" name="address2" value="<?php echo $address2 ?>"/>
@@ -136,6 +140,13 @@
                         <?php
                         }
                         ?>
+                    <script type="text/javascript">
+                        jQuery(function($) {
+                            $('#create-label-n-order-form').click(function() {
+
+                            });
+                        })
+                    </script>
                     <hr>
                     <h2><span class="step">3</span> Prepare and mail your order<span class="stepdesc">Follow instructions on mailing label and order form</span></h2>
                     <ol>

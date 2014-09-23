@@ -1270,22 +1270,22 @@ h2.faq-catname {
 
 /************Chris's edits for the labels page **************************/
 
-#labelfields{
+#offline-order-form{
     border: 0;
     width: 100%
 }
-#labelfields label{
+#offline-order-form label{
     display: block;
     font-size: 12px;
 }
-#labelfields input{
+#offline-order-form input{
     display: block;
     width: 100%;
     height: 40px;
     font-size: 18px;
     text-indent: 3px;
 }
-#labelfields input[type="submit"]{
+#offline-order-form input[type="submit"]{
     margin-top: 10px;
     width: auto;
     text-indent: 0;
@@ -1299,7 +1299,7 @@ label-submit {
 div.lcity {width: 50%; float: left}
 div.lstate {width: 25%; float: left}
 div.lzip {width: 25%; float: left}
-#labelfields input.lcity, #labelfields input.lstate {width: 90%; margin-bottom}
+#offline-order-form input.lcity, #offline-order-form input.lstate {width: 90%; margin-bottom}
 
 
 .lable-left {

@@ -44,11 +44,11 @@ if(isset($_POST['order_form'])) {
     imagejpeg($orderForm, $tmpOrderForm);
     imagedestroy($orderForm);
 
-    header('Content-type: image/jpeg');
+    /*header('Content-type: image/jpeg');
     header("Content-disposition: attachment; filename=Order Form for $name $address1 $zipCode.jpg");
     readfile($tmpOrderForm);
     unlink($tmpOrderForm);
-    exit();
+    exit();*/
 }
 
 if(isset($_POST['shipping_label'])) {
