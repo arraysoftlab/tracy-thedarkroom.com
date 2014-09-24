@@ -1,5 +1,5 @@
 <?php
-if(empty($_POST)) {
+if(empty($_GET) || !isset($_GET['action'])) {
     header('Location: /');
     exit();
 }
@@ -11,18 +11,18 @@ if(!file_exists($tmpDir)) {
 }
 
 //Set up our POST variables
-$name = strip_tags($_POST['full_name']);
-$address1 = strip_tags($_POST['address1']);
-$address2 = strip_tags($_POST['address2']);
-$city = strip_tags($_POST['city']);
-$state = strip_tags($_POST['state']);
-$zipCode = strip_tags(str_replace(' ', '', $_POST['zip']));
-$email = strip_tags($_POST['email']);
-$phone = strip_tags($_POST['phone']);
-$redirectTo = $_POST['redirect_to'];
+$name = strip_tags($_GET['full_name']);
+$address1 = strip_tags($_GET['address1']);
+$address2 = strip_tags($_GET['address2']);
+$city = strip_tags($_GET['city']);
+$state = strip_tags($_GET['state']);
+$zipCode = strip_tags(str_replace(' ', '', $_GET['zip']));
+$email = strip_tags($_GET['email']);
+$phone = strip_tags($_GET['phone']);
+$redirectTo = $_GET['redirect_to'];
 
-if(isset($_POST['order_form'])) {
-    unset($_POST['order_form']);
+if($_GET['action'] == 'order-form') {
+    unset($_GET['action']);
 
     /*Watermark Return Address to Offline Order Form*/
     $orderForm = imagecreatefromjpeg("images/film-developing-form.jpg");
@@ -40,19 +40,24 @@ if(isset($_POST['order_form'])) {
     if($phone) {
         imagettftext($orderForm, 40, 0, 2300, $height+=60, imagecolorallocate($orderForm, 0, 0, 0), $font, $phone);
     }
-    $tmpOrderForm = $tmpDir . '/order-form-' . $now;
+    $tmpOrderForm = "$tmpDir/Order Form for $name $address1 $zipCode $now.jpg";
     imagejpeg($orderForm, $tmpOrderForm);
     imagedestroy($orderForm);
 
-    /*header('Content-type: image/jpeg');
-    header("Content-disposition: attachment; filename=Order Form for $name $address1 $zipCode.jpg");
-    readfile($tmpOrderForm);
-    unlink($tmpOrderForm);
-    exit();*/
+    require("lib/mpdf/mpdf.php");
+    $mpdf = new mPDF();
+    $html = "<img src='$tmpOrderForm'/>";
+    $mpdf->WriteHTML($html);
+    $tmpOrderForm = "$tmpDir/Order Form for $name $address1 $zipCode $now.pdf";
+    $mpdf->Output($tmpOrderForm, 'F');
+
+    header("Content-Type: application/pdf");
+    echo file_get_contents($tmpOrderForm);
+    exit();
 }
 
-if(isset($_POST['shipping_label'])) {
-    unset($_POST['shipping_label']);
+if($_GET['action'] == 'shipping-label') {
+    unset($_GET['action']);
 
     /*USPS API request to get shipping label*/
     $input_xml = urlencode("<ExternalReturnLabelRequest>
@@ -97,13 +102,12 @@ if(isset($_POST['shipping_label'])) {
         header("Location: $redirectTo?full_name=$name&address1=$address1&address2=$address2&city=$city&state=$state&zip=$zipCode" . $error);
         exit();
     }
-    $tmpLabel = $tmpDir . '/label-' . $now;
+    $tmpLabel = "$tmpDir/Shipping Label for $name $address1 $zipCode $now.pdf";
     $file = fopen($tmpLabel, 'w');
     fwrite($file, $data);
     fclose($file);
 
     header("Content-Type: application/pdf");
-    header("Content-disposition: attachment; filename=Shipping Label for $name $address1 $zipCode.pdf");
-    readfile($tmpLabel);
-    unlink($tmpLabel);
+    echo file_get_contents($tmpLabel);
+    exit();
 }
