@@ -492,7 +492,7 @@ if(!$ajaxRefresh) :
 		<li>Prepaid Mailing Label<br> <span>• Create and print prepaid label below. Label includes tracking<br> • Attach to a 6″x9″ padded envelope<br>
 		(Problems? go to <a href="http://thedarkroom.com/label" target="_blank">thedarkroom.com/label</a>)</span><br>
 		
-		<form method="POST" action="http://thedarkroom.com/wp-content/themes/thedarkroom2012/get-order-form-n-label.php" target="_blank" >
+		<form method="get" action="http://thedarkroom.com/wp-content/themes/thedarkroom2012/get-order-form-n-label.php" target="_blank" >
         <input type="hidden" name="full_name" value="<?php echo $order->ship_first_name . ' ' . $order->ship_last_name; ?>"/>
         <input type="hidden" name="address1" value="<?php echo $order->ship_address; ?>"/>
         <input type="hidden" name="address2" value="<?php echo empty($order->ship_address2) ? '' : $order->ship_address2; ?>"/>
