@@ -4,6 +4,10 @@
  */
 ?>
 <?php get_header() ?>
+    <style type="text/css">
+        @media all{.featherlight{display:none;position:fixed;top:0;right:0;bottom:0;left:0;z-index:2;text-align:center;white-space:nowrap;cursor:pointer;background:#333;background:rgba(0,0,0,0)}.featherlight:last-of-type{background:rgba(0,0,0,.8)}.featherlight:before{content:'';display:inline-block;height:100%;vertical-align:middle;margin-right:-.25em}.featherlight .featherlight-content{position:relative;text-align:left;vertical-align:middle;display:inline-block;overflow:auto;padding:25px 25px 0;border-bottom:25px solid transparent;min-width:30%;margin-left:5%;margin-right:5%;max-height:95%;background:#fff;cursor:auto;white-space:normal}.featherlight .featherlight-inner{display:block}.featherlight .featherlight-close-icon{position:absolute;z-index:9999;top:0;right:0;line-height:25px;width:25px;cursor:pointer;text-align:center;font:Arial,sans-serif;background:#fff;background:rgba(255,255,255,.3);color:#000}.featherlight .featherlight-image{width:100%}.featherlight-iframe .featherlight-content{border-bottom:0;padding:0}.featherlight iframe{border:0}}@media only screen and (max-width:1024px){.featherlight .featherlight-content{margin-left:10px;margin-right:10px;max-height:98%;padding:10px 10px 0;border-bottom:10px solid transparent}}
+    </style>
+    <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/featherlight.min.js"></script>
 <div id="primary">
     <div id="content" role="main" class="page wide label">
         <?php if(have_posts()) : while(have_posts()) : the_post(); ?>
@@ -37,35 +41,92 @@
                             }
                             ?>
                             <div id="offline-order-form">
-                                <form method="POST" action="<?php echo get_template_directory_uri(); ?>/get-order-form-n-label.php">
+                                <form method="POST" action="">
                                     <input type="hidden" name="redirect_to" value="<?php echo get_permalink() ?>"/>
                                     <span class="gfield_required" style="float:right">* Required Fields</span>
                                     <label for="full_name">Name<span class="gfield_required">*</span></label>
-                                    <input name="full_name" class="lname" type="text" placeholder="Name" value="<?php echo $_GET['full_name'] ?>"/>
+                                    <input name="full_name" class="required" type="text" placeholder="Name" value="<?php echo $_GET['full_name'] ?>"/>
                                     <label for="address1">Address<span class="gfield_required">*</span></label>
-                                    <input name="address1" class="laddress1" type="text" placeholder="Address 1" value="<?php echo $_GET['address1'] ?>"/>
-                                    <input name="address2" class="laddress2" type="text" placeholder="Address 2" value="<?php echo $_GET['address2'] ?>"/>
+                                    <input name="address1" class="required" type="text" placeholder="Address 1" value="<?php echo $_GET['address1'] ?>"/>
+                                    <input name="address2" class="" type="text" placeholder="Address 2" value="<?php echo $_GET['address2'] ?>"/>
                                     <div class="lcity"><label for="CustomerCity">City<span class="gfield_required">*</span></label>
-                                        <input name="city" type="text" class="lcity" placeholder="City" value="<?php echo $_GET['city'] ?>"/>
+                                        <input name="city" type="text" class="required" placeholder="City" value="<?php echo $_GET['city'] ?>"/>
                                     </div>
                                     <div class="lstate"><label for="CustomerState">State<span class="gfield_required">*</span></label>
-                                        <input name="state" class="lstate" type="text" placeholder="State" value="<?php echo $_GET['state'] ?>"/>
+                                        <input name="state" class="required" type="text" placeholder="State" value="<?php echo $_GET['state'] ?>"/>
                                     </div>
                                     <div class="lzip">
                                         <label for="zip">Zip code<span class="gfield_required">*</span></label>
-                                        <input name="zip" type="text" class="lzip" placeholder="Zip Code" size="7" value="<?php echo $_GET['zip'] ?>"/>
+                                        <input name="zip" type="text" class="required" placeholder="Zip Code" size="7" value="<?php echo $_GET['zip'] ?>"/>
                                     </div>
                                     <label for="email">Email</label>
                                     <input name="email" class="email" type="text" placeholder="me@myworld.com" value="<?php echo $_GET['email'] ?>"/>
                                     <label for="phone">Phone</label>
                                     <input name="phone" class="phone" type="text" placeholder="+001 123 4566" value="<?php echo $_GET['phone'] ?>"/>
                                     <div style="clear:both;"></div>
-                                    <input type="button" id="create-label-n-order-form" name="submit" value="Create Label & Order Form"/>
+                                    <div class="button-wrap">
+                                        <a id="create-label-n-order-form" class="button" href="#download-modal-panel">Create Label & Order Form</a>
+                                    </div>
                                 </form>
                             </div>
-                            <div id="download-panel" style="display: none">
 
+                            <div id="download-modal-panel" class="lightbox">
+                                <div class="button-wrap"><a class="button" href="" target="_blank" data-action="order-form">Download Order Form</a></div>
+                                <div class="button-wrap"><a class="button" href="" target="_blank" data-action="shipping-label">Download Shipping Label</a></div>
                             </div>
+                            <style type="text/css">
+                                .lightbox {
+                                    display: none;
+                                }
+                                .button-wrap {
+                                    margin: 10px auto;
+                                    text-align: center;
+                                }
+                                .button-wrap a.button {
+                                    display: block;
+                                    font-size: 25px;
+                                    background-color: #26a2fc;
+                                    text-decoration: none !important;
+                                    color: white !important;
+                                    padding: 15px 30px;
+                                }
+                                .button-wrap a.button:hover {
+                                    text-transform: none;
+                                }
+                                .error-msg {
+                                    color: red;
+                                }
+                                .featherlight .featherlight-content {
+                                    width: 50%;
+                                    height: 50%;
+                                }
+                            </style>
+                            <script type="text/javascript">
+                                jQuery(function($) {
+                                    var url = "<?php echo get_template_directory_uri(); ?>/get-order-form-n-label.php";
+                                    $('#create-label-n-order-form').click(function() {
+                                        var valid = true;
+                                        var form = $('#offline-order-form form');
+                                        form.find('.error-msg').remove();
+                                        form.find('.required').each(function() {
+                                            if(!$(this).val()) {
+                                                $(this).after('<span class="error-msg">*This field is required</span>');
+                                                valid = false;
+                                            }
+                                        });
+                                        if(valid) {
+                                            $.featherlight($('#download-modal-panel'), {
+                                                targetAttr: 'href',
+                                                afterOpen: function() {
+                                                    $('.featherlight-content').find('#download-modal-panel a').each(function() {
+                                                        $(this).attr('href', url + '?action=' + $(this).data('action') + '&' + $('#offline-order-form form').serialize());
+                                                    })
+                                                }
+                                            });
+                                        }
+                                    });
+                                })
+                            </script>
                         </div>
                         <!--Righ Column-->
                         <div class="lable-right">
@@ -73,80 +134,8 @@
                                  class="alignnone size-full wp-image-3716"/>
                         </div>
                         <?php
-                        } else {
-                            $name = strip_tags($_POST['full_name']);
-                            $address1 = strip_tags($_POST['address1']);
-                            $address2 = strip_tags($_POST['address2']);
-                            $city = strip_tags($_POST['city']);
-                            $state = strip_tags($_POST['state']);
-                            $zipCode = strip_tags(str_replace(' ', '', $_POST['zip']));
-                            $email = strip_tags($_POST['email']);
-                            $phone = strip_tags($_POST['phone']);
-
-                            $errors = array();
-                            if(empty($name)) $errors[] = "Name is required.";
-                            if(empty($address1)) $errors[] = "Address 1 is required.";
-                            if(empty($city)) $errors[] = "City is required.";
-                            if(empty($state)) $errors[] = "State is required.";
-                            if(empty($zipCode)) $errors[] = "ZipCode is required.";
-
-                            if(!empty($errors)) {
-                                $error = "";
-                                foreach($errors as $err) {
-                                    $error .= "&err[]=$err";
-                                }
-                                header("Location: " . get_permalink() ."?full_name=$name&address1=$address1&address2=$address2&city=$city&state=$state&zip=$zipCode" . $error);
-                                exit();
-                            }
-                            ?>
-                            <div class="download-panel">
-                                <div class="order-form-panel">
-                                    <form method="POST" action="<?php echo get_template_directory_uri(); ?>/get-order-form-n-label.php" target="_blank">
-                                        <input type="hidden" name="full_name" value="<?php echo $name ?>"/>
-                                        <input type="hidden" name="address1" value="<?php echo $address1 ?>"/>
-                                        <input type="hidden" name="address2" value="<?php echo $address2 ?>"/>
-                                        <input type="hidden" name="city" value="<?php echo $city ?>"/>
-                                        <input type="hidden" name="state" value="<?php echo $state ?>">
-                                        <input type="hidden" name="zip" value="<?php echo $zipCode ?>">
-                                        <input type="hidden" name="email" value="<?php echo $email ?>">
-                                        <input type="hidden" name="phone" value="<?php echo $phone ?>">
-                                        <input type="hidden" name="redirect_to" value="<?php echo get_permalink() ?>"/>
-                                        <input type="submit" name="order_form" value="Download Order Form"/>
-                                    </form>
-                                </div>
-                                <div class="shipping-label-panel">
-                                    <form method="POST" action="" target="_blank">
-                                        <input type="hidden" name="full_name" value="<?php echo $name ?>"/>
-                                        <input type="hidden" name="address1" value="<?php echo $address1 ?>"/>
-                                        <input type="hidden" name="address2" value="<?php echo $address2 ?>"/>
-                                        <input type="hidden" name="city" value="<?php echo $city ?>"/>
-                                        <input type="hidden" name="state" value="<?php echo $state ?>">
-                                        <input type="hidden" name="zip" value="<?php echo $zipCode ?>">
-                                        <input type="hidden" name="email" value="<?php echo $email ?>">
-                                        <input type="hidden" name="phone" value="<?php echo $phone ?>">
-                                        <input type="hidden" name="redirect_to" value="<?php echo get_permalink() ?>"/>
-                                        <input type="submit" name="shipping_label" value="Download Shipping Label"/>
-                                    </form>
-                                </div>
-                            </div>
-                            <style type="text/css">
-                                .download-panel div {
-                                    width: 50%;
-                                    float: left;
-                                    text-align: center;
-                                    margin: 30px 0;
-                                }
-                            </style>
-                        <?php
                         }
                         ?>
-                    <script type="text/javascript">
-                        jQuery(function($) {
-                            $('#create-label-n-order-form').click(function() {
-
-                            });
-                        })
-                    </script>
                     <hr>
                     <h2><span class="step">3</span> Prepare and mail your order<span class="stepdesc">Follow instructions on mailing label and order form</span></h2>
                     <ol>
