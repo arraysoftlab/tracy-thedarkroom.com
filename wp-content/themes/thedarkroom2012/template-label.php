@@ -16,14 +16,47 @@
                     <!--h1 class="entry-title"><?php the_title(); ?></h1-->
                 </header>
                 <!-- .entry-header -->
+                
+                
+                
                 <div class="entry-content">
-                    <?php the_content(); ?>
+                
+					<!--table border="0" width="100%" cellspacing="0" cellpadding="0">
+						<tbody>
+						<tr>
+						<td>
+						<h2><span class="step">1</span> Download and print order form<span class="stepdesc">If you paid online or already have a form, this step is optional.</span></h2>
+						<a class="buybutton" href="/Film-Developing-Form.pdf">Download PDF Order Form</a></td>
+						<td><a title="Film Developing Form" href="http://thedarkroom.com/Film-Developing-Form.pdf" target="_blank"><img class="alignnone size-full wp-image-169" title="order-form" src="http://thedarkroom.com/wp-content/uploads/2011/01/film-developing-download-form.jpg" alt="" width="229" height="155" /></a></td>
+						</tr>
+						</tbody>
+					</table>
+					
+					<hr /-->
+					
+					<div style="text-align:center;font-size: 15px;color: #7d7d7d;margin-bottom:50px">
+					<h1>Order Form and Mailing Label</h1>
+					<img src="/wp-content/uploads/2014/06/printer-icon1.gif" style="vertical-align:middle"> You will need a printer for order form and mailing label
+					</div>
+					
+					
+					<table style="width:100%">
+							<tr>
+								<td valign="top" style="padding-right:30px">
+					
+					<h2><span class="step">1</span> Personalized/Trackable Forms<span class="stepdesc">Complete form to create a custom order form and mailing label</span></h2>
+					<div style="margin:10px 0">
+					<strong>Outside of the United States?</strong> <a href="/Shipping-Label.pdf" target="_blank">Download and print international shipping label.</a> 
+					</div>
+
+
+                   
                     <!--Edit Template-label.php file -->
-                    <?php edit_post_link(__('Edit', 'imminimal'), '<span class="edit-link">', '</span>'); ?>
+             
                         <?php
                         if(!isset($_POST['submit']) || isset($_GET['err'])) {
                         ?>
-                        <div class="lable-left">
+                        <div>
                         <?php
                             if(!empty($_GET['err'])) {
                                 ?>
@@ -62,7 +95,7 @@
                                     <label for="email">Email</label>
                                     <input name="email" class="email" type="text" placeholder="me@myworld.com" value="<?php echo $_GET['email'] ?>"/>
                                     <label for="phone">Phone</label>
-                                    <input name="phone" class="phone" type="text" placeholder="+001 123 4566" value="<?php echo $_GET['phone'] ?>"/>
+                                    <input name="phone" class="phone" type="text" placeholder="555 555-5555" value="<?php echo $_GET['phone'] ?>"/>
                                     <div style="clear:both;"></div>
                                     <div class="button-wrap">
                                         <a id="create-label-n-order-form" class="button" href="#download-modal-panel">Create Label & Order Form</a>
@@ -71,8 +104,14 @@
                             </div>
 
                             <div id="download-modal-panel" class="lightbox">
-                                <div class="button-wrap"><a class="button" href="" target="_blank" data-action="order-form">Download Order Form</a></div>
-                                <div class="button-wrap"><a class="button" href="" target="_blank" data-action="shipping-label">Download Shipping Label</a></div>
+                                <div class="button-wrap">
+                                    <a class="button" href="" target="_blank" data-action="order-form">Print Order Form</a>
+                                    <a class="download" href="" target="_blank" data-action="order-form">Download Order Form</a>
+                                </div>
+                                <div class="button-wrap">
+                                    <a class="button" href="" target="_blank" data-action="shipping-label">Print Mailing Shipping Label</a>
+                                    <a class="download" href="" target="_blank" data-action="shipping-label">Download Mailing Shipping Label</a>
+                                </div>
                             </div>
                             <style type="text/css">
                                 .lightbox {
@@ -90,8 +129,13 @@
                                     color: white !important;
                                     padding: 15px 30px;
                                 }
-                                .button-wrap a.button:hover {
-                                    text-transform: none;
+                                .button-wrap a.download {
+                                    font-size: 14px;
+                                    text-decoration: underline !important;
+                                    color: #26a2fc !important;
+                                }
+                                .button-wrap a:hover {
+                                    text-decoration: none;
                                 }
                                 .error-msg {
                                     color: red;
@@ -128,21 +172,26 @@
                                 })
                             </script>
                         </div>
-                        <!--Righ Column-->
-                        <div class="lable-right">
-                            <img src="http://thedarkroom.com/wp-content/uploads/2014/06/mailing-lable-and-envelope.jpg" alt="mailing-lable-and-envelope" width="414" height="267"
-                                 class="alignnone size-full wp-image-3716"/>
-                        </div>
                         <?php
                         }
                         ?>
-                    <hr>
-                    <h2><span class="step">3</span> Prepare and mail your order<span class="stepdesc">Follow instructions on mailing label and order form</span></h2>
+                   </td>
+                   <td width="400px" valign="top">
+                    <h2><span class="step">2</span> Prepare and mail your order<span class="stepdesc">Follow instructions on mailing label and order form</span></h2>
                     <ol>
                         <li>Attach mailing label to a 6"x9" padded envelope. Follow USPS instructions on mailing label.</li>
                         <li>If you prepaid online, include a copy of the receipt or write down your order number and include it with your film.</li>
                         <li>If you are using the order form, insert order form, payment & film</li>
                     </ol>
+                    
+                    <img src="/wp-content/uploads/2014/06/form-label-image.jpg" width="100%">
+                   </td>
+							</tr>
+								</table>
+                    <hr>
+                    
+                     <?php the_content(); ?>
+                            <?php edit_post_link(__('Edit', 'imminimal'), '<span class="edit-link">', '</span>'); ?>
                 </div>
                 <!-- .entry-content -->
             </article><!-- #post-<?php the_ID(); ?> -->
