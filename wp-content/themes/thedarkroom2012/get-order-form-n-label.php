@@ -45,7 +45,7 @@ if($_GET['action'] == 'order-form') {
     imagedestroy($orderForm);
 
     require("lib/mpdf/mpdf.php");
-    $mpdf = new mPDF();
+    $mpdf = new mPDF('utf-8', array(900, 700));
     $html = "<img src='$tmpOrderForm'/>";
     $mpdf->WriteHTML($html);
     $tmpOrderForm = "$tmpDir/Order Form for $name $address1 $zipCode $now.pdf";
