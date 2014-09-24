@@ -2063,3 +2063,757 @@ Callback link: http://cart66.com/cart66-version.php?task=getLatestVersion&pn=Car
 
 [LOG DATE: 09/20/2014 5:15:35 pm - Server time zone UTC]
 [Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/20/2014 5:48:25 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:48:26 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:48:38 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:48:39 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:59:19 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:59:20 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:59:33 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:59:35 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:59:57 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 5:59:58 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 6:00:36 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/20/2014 6:00:36 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/20/2014 6:00:39 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 6:00:41 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 7:18:46 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/20/2014 7:18:46 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/20/2014 7:18:47 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: BZNP6IQCP8N9WCHAWBHY87XAP9BNBFFJIR65581H
+
+[LOG DATE: 09/20/2014 7:18:47 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/20/2014 7:18:52 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 7:18:54 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 7:19:10 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 7:19:13 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 7:34:55 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 7:34:56 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 7:58:51 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/20/2014 7:58:51 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/20/2014 7:58:53 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 7:58:54 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:00:44 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/20/2014 8:00:44 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/20/2014 8:01:33 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:01:34 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:06:33 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:06:34 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:07:16 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:07:17 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:07:48 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:07:49 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:08:23 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:08:24 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:08:45 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:08:46 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:09:14 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:09:15 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:09:53 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:09:54 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:12:09 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:12:10 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:19:19 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:19:20 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:19:27 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:19:28 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:20:09 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:20:10 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:20:14 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:20:15 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:20:18 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:20:20 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:22:09 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:22:10 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:22:16 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:22:17 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:26:07 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:26:08 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:26:37 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:26:38 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:26:50 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/20/2014 8:26:51 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/23/2014 4:35:45 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Providedst
+
+[LOG DATE: 09/23/2014 4:35:45 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/23/2014 4:35:56 pm - Server time zone UTC]
+Callback link: http://cart66.com/cart66-version.php?task=getLatestVersion&pn=Cart66&key=Cart66+U%3A+Thedarkroom+P%3A+cart666+0HX37976ML385014N&v=1.5.1.19&vnm=pro&wp=3.9.2&php=5.5.9&mysql=5.6.16&ws=http%3A%2F%2Flocal.host%2Fthedarkroom.com
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/23/2014 4:35:57 pm - Server time zone UTC]
+[Cart66ProCommon.php - line 67] Version info from remote request: Array
+(
+    [headers] => Array
+        (
+            [date] => Tue, 23 Sep 2014 16:36:00 GMT
+            [server] => Apache/2.2.15 (CentOS)
+            [x-powered-by] => PHP/5.3.3
+            [content-length] => 183
+            [connection] => close
+            [content-type] => text/html; charset=UTF-8
+        )
+
+    [body] => 1~1.5.1.19~http://cart66.com/cart66-version.php?key={KEY}&task=downloadLatest&pn=Cart66&v=1.5.1.19&vnm=pro&wp=3.9.2&php=5.5.9&mysql=5.6.16&ws=http%3A%2F%2Flocal.host%2Fthedarkroom.com
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+
+[LOG DATE: 09/23/2014 6:00:55 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/23/2014 6:00:55 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/23/2014 6:00:56 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/23/2014 6:00:59 pm - Server time zone UTC]
+[Cart66Dialog.php - line 45] Adding code for shortcode popup
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/23/2014 6:01:01 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: CDE89889W37J1N39LA6YNFOX6BBMKGZ6HSL31QR2
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/23/2014 6:01:01 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/23/2014 6:01:01 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: CDE89889W37J1N39LA6YNFOX6BBMKGZ6HSL31QR2
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/23/2014 6:01:01 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/23/2014 6:26:40 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/23/2014 6:26:41 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/23/2014 6:26:46 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/23/2014 6:26:48 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/23/2014 6:29:50 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/23/2014 6:29:51 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/23/2014 6:31:37 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/23/2014 6:31:38 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:02:17 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/24/2014 6:02:17 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/24/2014 6:02:17 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 89] Not starting Cart66 session for admin request
+
+[LOG DATE: 09/24/2014 6:02:17 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/24/2014 6:02:17 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/24/2014 6:02:23 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:02:25 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/24/2014 6:02:29 pm - Server time zone UTC]
+Callback link: http://cart66.com/cart66-version.php?task=getLatestVersion&pn=Cart66&key=Cart66+U%3A+Thedarkroom+P%3A+cart666+0HX37976ML385014N&v=1.5.1.19&vnm=pro&wp=3.9.2&php=5.5.9&mysql=5.6.16&ws=http%3A%2F%2Flocal.host%2Fthedarkroom.com
+
+======= ADMIN REQUEST =======
+[LOG DATE: 09/24/2014 6:02:31 pm - Server time zone UTC]
+[Cart66ProCommon.php - line 67] Version info from remote request: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 24 Sep 2014 18:02:31 GMT
+            [server] => Apache/2.2.15 (CentOS)
+            [x-powered-by] => PHP/5.3.3
+            [content-length] => 183
+            [connection] => close
+            [content-type] => text/html; charset=UTF-8
+        )
+
+    [body] => 1~1.5.1.19~http://cart66.com/cart66-version.php?key={KEY}&task=downloadLatest&pn=Cart66&v=1.5.1.19&vnm=pro&wp=3.9.2&php=5.5.9&mysql=5.6.16&ws=http%3A%2F%2Flocal.host%2Fthedarkroom.com
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+
+[LOG DATE: 09/24/2014 6:11:59 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: 1O1O8FWWSD7VFB7NGCH4W63AF3SFBTLZQJ2KN3FM
+
+[LOG DATE: 09/24/2014 6:11:59 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/24/2014 6:12:01 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/label/js/featherlight.min.js
+
+[LOG DATE: 09/24/2014 6:12:01 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:12:02 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:12:50 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/label/js/featherlight.min.js
+
+[LOG DATE: 09/24/2014 6:12:50 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:12:52 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:13:21 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:13:21 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/label/js/featherlight.min.js
+
+[LOG DATE: 09/24/2014 6:13:22 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:13:55 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/label/js/featherlight.min.js
+
+[LOG DATE: 09/24/2014 6:13:55 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:13:56 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:14:25 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/label/js/featherlight.min.js
+
+[LOG DATE: 09/24/2014 6:14:26 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:14:28 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:14:40 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:14:41 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:15:18 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:15:20 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:16:29 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:16:31 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:21:01 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:21:02 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:21:36 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:21:38 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:22:53 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:22:55 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:23:16 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/24/2014 6:23:16 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/24/2014 6:23:19 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:23:21 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:24:29 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:24:30 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:25:04 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:25:06 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:25:24 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:25:25 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:25:48 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:25:49 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:26:21 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:26:22 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:28:29 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:28:30 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:28:40 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:28:41 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:29:57 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:29:58 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:40:59 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:41:00 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:41:58 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:41:59 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:42:34 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:42:35 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:44:54 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:44:55 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:45:32 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:45:34 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:54:44 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:54:45 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:55:18 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:55:19 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:59:25 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 6:59:26 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:05:04 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/24/2014 7:05:04 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/24/2014 7:05:40 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: 5J3B3IKDS6C84BVZCNDPHWQH67EDPILEXQHKY1PS
+
+[LOG DATE: 09/24/2014 7:05:40 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/24/2014 7:05:42 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/24/2014 7:05:42 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/24/2014 7:05:44 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:05:46 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:05:47 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:06:10 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:06:11 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:07:29 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:07:30 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:07:56 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:07:58 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:08:17 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:08:19 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:09:38 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:09:40 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:10:15 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:10:17 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:10:30 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:10:31 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:11:02 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:11:03 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:11:23 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:11:25 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:12:01 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:12:02 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:14:04 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:14:06 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:14:25 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:14:26 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:16:56 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:16:57 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:17:26 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:17:27 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:25:00 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:25:02 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:25:32 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:25:33 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:27:16 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:27:17 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:29:19 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:29:20 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:30:16 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:30:18 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:31:23 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:31:25 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:32:35 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:32:36 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:34:51 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:34:52 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:39:50 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:39:51 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:40:16 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:40:17 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:40:37 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:40:38 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:41:17 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:41:18 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:41:39 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:41:40 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:43:05 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 147] _loadSession() was unable to load the session id: No Session Id Provided
+
+[LOG DATE: 09/24/2014 7:43:05 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 163] Creating a new session
+
+[LOG DATE: 09/24/2014 7:43:31 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:43:33 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:44:14 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com//wp-content/uploads/2014/05/2page-img1.jpg
+
+[LOG DATE: 09/24/2014 7:44:15 pm - Server time zone UTC]
+[Cart66SessionDb.php - line 101] Not starting session for this request: /thedarkroom.com/wp-content/uploads/2014/05/2page-img1.jpg
