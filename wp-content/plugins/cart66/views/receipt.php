@@ -493,14 +493,15 @@ if(!$ajaxRefresh) :
 		(Problems? go to <a href="http://thedarkroom.com/label" target="_blank">thedarkroom.com/label</a>)</span><br>
 		
 		<form method="get" action="http://thedarkroom.com/wp-content/themes/thedarkroom2012/get-order-form-n-label.php" target="_blank" >
-        <input type="hidden" name="full_name" value="<?php echo $order->ship_first_name . ' ' . $order->ship_last_name; ?>"/>
-        <input type="hidden" name="address1" value="<?php echo $order->ship_address; ?>"/>
-        <input type="hidden" name="address2" value="<?php echo empty($order->ship_address2) ? '' : $order->ship_address2; ?>"/>
-        <input type="hidden" name="city" value="<?php echo $order->ship_city; ?>"/>
-        <input type="hidden" name="state" value="<?php echo $order->ship_state; ?>"/>
-        <input type="hidden" name="zip" value="<?php echo $order->ship_zip; ?>"/>
-        <input type="image" name="shipping_label" src="/wp-content/uploads/2014/09/print-label.gif" value="Get Label" class="lable-submit" width="391" height="229"/>
-    </form>
+            <input type="hidden" name="action" value="shipping-label"/>
+            <input type="hidden" name="full_name" value="<?php echo $order->ship_first_name . ' ' . $order->ship_last_name; ?>"/>
+            <input type="hidden" name="address1" value="<?php echo $order->ship_address; ?>"/>
+            <input type="hidden" name="address2" value="<?php echo empty($order->ship_address2) ? '' : $order->ship_address2; ?>"/>
+            <input type="hidden" name="city" value="<?php echo $order->ship_city; ?>"/>
+            <input type="hidden" name="state" value="<?php echo $order->ship_state; ?>"/>
+            <input type="hidden" name="zip" value="<?php echo $order->ship_zip; ?>"/>
+            <input type="image" name="shipping_label" src="/wp-content/uploads/2014/09/print-label.gif" value="Get Label" class="lable-submit" width="391" height="229"/>
+        </form>
     
     </li>
 		<li>Box and Ship<br> <span>Pack your film and this receipt in envelope and drop in a mailbox.</span></li>

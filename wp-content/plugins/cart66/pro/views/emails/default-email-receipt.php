@@ -126,6 +126,7 @@ if(!$test) {
                         <br/><em><?php _e( 'Delivery via' , 'cart66' ); ?>: <?php echo $order->shipping_method ?></em><br/>
 <div style="clear:both;"></div>
     <form method="get" action="http://thedarkroom.com/wp-content/themes/thedarkroom2012/get-order-form-n-label.php" target="_blank" >
+        <input type="hidden" name="action" value="shipping-label"/>
         <input type="hidden" name="full_name" value="<?php echo $order->ship_first_name . ' ' . $order->ship_last_name; ?>"/>
         <input type="hidden" name="address1" value="<?php echo $order->ship_address; ?>"/>
         <input type="hidden" name="address2" value="<?php echo empty($order->ship_address2) ? '' : $order->ship_address2; ?>"/>
